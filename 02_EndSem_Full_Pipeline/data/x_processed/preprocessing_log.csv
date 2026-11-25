@@ -1,0 +1,13 @@
+﻿group,file,raw_rows,malformed_rows_skipped_by_parser,rows_missing_id_or_valid_timestamp,outside_study_window,duplicate_ids_removed_within_file,relevant_rows_kept,off_topic_or_generic_excluded,missing_text_kept,missing_author_kept
+A,1_CJP_Protest_cleaned_filtered.csv,232,0,0,0,0,232,0,0,0
+A,2_CJP_JantarMantar_cleaned_filtered.csv,338,0,0,0,0,335,3,0,0
+A,3rd Jantar Mantar Protestors.csv,680,0,0,0,206,211,263,0,0
+A,4th कॉकरोच जनता पार्टी.csv,220,0,0,0,0,220,0,0,0
+B,"""NEET aspirants"" ""Jantar Mantar"".csv",50,0,0,10,0,35,5,0,0
+B,"""paper leak"" ""Jantar Mantar"".csv",292,0,0,159,0,131,2,0,0
+B,4_CJP_NEET-UG_cleaned_filtered.csv,145,0,0,0,0,136,9,0,0
+C,"""Jantar Mantar"" government.csv",858,0,0,727,32,49,50,0,0
+C,3a_CJP_Government_Original_cleaned_filtered.csv,45,0,0,0,0,45,0,0,0
+C,3b_CJP_Government_AdvSearch_cleaned_filtered.csv,42,0,0,0,0,42,0,0,0
+C,"Jantar Mantar"" ""Delhi Police.csv",747,0,0,0,202,337,208,0,0
+C,"Jantar Mantar"" ""Education Minister"".csv",191,0,0,53,0,118,20,0,0

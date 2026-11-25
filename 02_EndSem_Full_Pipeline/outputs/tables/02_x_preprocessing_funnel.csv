@@ -1,0 +1,5 @@
+group,raw_rows,outside_study_window,off_topic_or_generic_excluded,duplicate_ids_removed_within_file,relevant_rows_kept
+A,1470,0,266,206,998
+B,487,169,16,0,302
+C,1883,780,278,234,591
+total,3840,949,560,440,1891

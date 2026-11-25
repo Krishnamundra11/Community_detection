@@ -1,0 +1,16 @@
+from_community,to_community,weight,from_label,to_label
+1,2,28.0,Pro-protest · media coverage,Anti-CJP / pro-government · minister accountability
+2,1,15.0,Anti-CJP / pro-government · minister accountability,Pro-protest · media coverage
+7,2,9.0,News / reporting · wangchuk fast,Anti-CJP / pro-government · minister accountability
+4,2,8.0,Anti-CJP / pro-government · police repression,Anti-CJP / pro-government · minister accountability
+7,1,7.0,News / reporting · wangchuk fast,Pro-protest · media coverage
+4,1,6.0,Anti-CJP / pro-government · police repression,Pro-protest · media coverage
+5,4,6.0,Mixed / contested · conspiracy funding,Anti-CJP / pro-government · police repression
+6,1,6.0,Mixed / contested · satire cji remark,Pro-protest · media coverage
+3,1,6.0,Mixed / contested · opposition politics,Pro-protest · media coverage
+12,2,5.0,Pro-protest · opposition politics,Anti-CJP / pro-government · minister accountability
+1,8,4.0,Pro-protest · media coverage,Mixed / contested · satire cji remark
+6,2,4.0,Mixed / contested · satire cji remark,Anti-CJP / pro-government · minister accountability
+1,7,4.0,Pro-protest · media coverage,News / reporting · wangchuk fast
+8,2,4.0,Mixed / contested · satire cji remark,Anti-CJP / pro-government · minister accountability
+3,2,4.0,Mixed / contested · opposition politics,Anti-CJP / pro-government · minister accountability

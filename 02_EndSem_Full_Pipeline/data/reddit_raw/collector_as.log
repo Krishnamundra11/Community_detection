@@ -1,0 +1,543 @@
+2026-10-19 13:00:25 === Arctic Shift thread worker start; done so far 0
+2026-10-19 13:00:25 batch: 2130 threads, ~41750 comments
+2026-10-19 13:01:06   HTTP 422 t3_1v8pxfm -> sleep 20s
+2026-10-19 13:01:32   HTTP 422 t3_1v8pxfm -> sleep 20s
+2026-10-19 13:02:46   HTTP 422 t3_1vapx7x -> sleep 20s
+2026-10-19 13:03:39   HTTP 422 t3_1twh6l5 -> sleep 20s
+2026-10-19 13:04:05   HTTP 422 t3_1twh6l5 -> sleep 20s
+2026-10-19 13:04:53   HTTP 422 t3_1v77664 -> sleep 20s
+2026-10-19 13:05:28   HTTP 422 t3_1tvr5j4 -> sleep 20s
+2026-10-19 13:05:54   HTTP 422 t3_1tvr5j4 -> sleep 20s
+2026-10-19 13:07:11 === Arctic Shift thread worker start; done so far 0
+2026-10-19 13:07:12 batch: 2130 threads, ~41750 comments
+2026-10-19 13:07:13   HTTP 422 t3_1vb0weu -> sleep 20s
+2026-10-19 13:07:44   HTTP 422 t3_1vb0weu -> sleep 20s
+2026-10-19 13:08:25   HTTP 422 t3_1vb0weu -> sleep 20s
+2026-10-19 13:09:23   HTTP 422 t3_1v8pxfm -> sleep 20s
+2026-10-19 13:09:44   HTTP 422 t3_1v8pxfm -> sleep 40s
+2026-10-19 13:11:06   HTTP 422 t3_1vapx7x -> sleep 20s
+2026-10-19 13:11:28   HTTP 422 t3_1vapx7x -> sleep 40s
+2026-10-19 13:12:14   HTTP 422 t3_1vapx7x -> sleep 20s
+2026-10-19 13:12:50   HTTP 422 t3_1twh6l5 -> sleep 20s
+2026-10-19 13:13:51   HTTP 422 t3_1v77664 -> sleep 20s
+2026-10-19 13:14:12   HTTP 422 t3_1v77664 -> sleep 40s
+2026-10-19 13:15:09   HTTP 422 t3_1tvr5j4 -> sleep 20s
+2026-10-19 13:16:05   HTTP 422 t3_1v66zrl -> sleep 20s
+2026-10-19 13:17:45 AS 10/2130 threads | 4705/41750 expected comments (11%) | ETA 83 min | req 59 | done total 10
+2026-10-19 13:19:02   HTTP 422 t3_1v1pcel -> sleep 20s
+2026-10-19 13:20:02   HTTP 422 t3_1v7rz3h -> sleep 20s
+2026-10-19 13:21:47 AS 20/2130 threads | 7384/41750 expected comments (18%) | ETA 68 min | req 99 | done total 20
+2026-10-19 13:22:14   HTTP 422 t3_1ttm6fy -> sleep 20s
+2026-10-19 13:24:19   HTTP 422 t3_1twhrvz -> sleep 20s
+2026-10-19 13:24:59 AS 30/2130 threads | 9452/41750 expected comments (23%) | ETA 61 min | req 129 | done total 30
+2026-10-19 13:25:00   HTTP 422 t3_1v8u3en -> sleep 20s
+2026-10-19 13:25:48   HTTP 422 t3_1vajeo1 -> sleep 20s
+2026-10-19 13:27:16   HTTP 422 t3_1v29pn7 -> sleep 20s
+2026-10-19 13:27:46   HTTP 422 t3_1v69z4u -> sleep 20s
+2026-10-19 13:28:22 AS 40/2130 threads | 11244/41750 expected comments (27%) | ETA 57 min | req 152 | done total 40
+2026-10-19 13:28:23   HTTP 422 t3_1tvksj3 -> sleep 20s
+2026-10-19 13:29:09   HTTP 422 t3_1v6qco1 -> sleep 20s
+2026-10-19 13:29:30   HTTP 422 t3_1v6qco1 -> sleep 40s
+2026-10-19 13:30:17   HTTP 422 t3_1v7tv1x -> sleep 20s
+2026-10-19 13:31:00   HTTP 422 t3_1tvsb5d -> sleep 20s
+2026-10-19 13:31:38   HTTP 422 t3_1v88i5f -> sleep 20s
+2026-10-19 13:32:14   HTTP 422 t3_1tyau82 -> sleep 20s
+2026-10-19 13:32:51   HTTP 422 t3_1v3bzgh -> sleep 20s
+2026-10-19 13:33:12   HTTP 422 t3_1v3bzgh -> sleep 40s
+2026-10-19 13:33:53   HTTP 422 t3_1v3bzgh -> sleep 80s
+2026-10-19 13:35:18 AS 50/2130 threads | 12707/41750 expected comments (30%) | ETA 64 min | req 172 | done total 50
+2026-10-19 13:35:24   HTTP 422 t3_1tydtm2 -> sleep 20s
+2026-10-19 13:37:32 AS 60/2130 threads | 14039/41750 expected comments (34%) | ETA 60 min | req 192 | done total 60
+2026-10-19 13:37:33   HTTP 422 t3_1v9njkm -> sleep 20s
+2026-10-19 13:38:10   HTTP 422 t3_1v7nvt3 -> sleep 20s
+2026-10-19 13:38:52   HTTP 422 t3_1vbndvw -> sleep 20s
+2026-10-19 13:39:13   HTTP 422 t3_1vbndvw -> sleep 40s
+2026-10-19 13:40:11   HTTP 422 t3_1uxjxlk -> sleep 20s
+2026-10-19 13:40:37   HTTP 422 t3_1uxjxlk -> sleep 20s
+2026-10-19 13:41:04   HTTP 422 t3_1v7qzkw -> sleep 20s
+2026-10-19 13:41:30   HTTP 422 t3_1v7qzkw -> sleep 20s
+2026-10-19 13:42:06   HTTP 422 t3_1v9tru5 -> sleep 20s
+2026-10-19 13:42:46 AS 70/2130 threads | 15223/41750 expected comments (36%) | ETA 62 min | req 212 | done total 70
+2026-10-19 13:43:12   HTTP 422 t3_1v7p4rw -> sleep 20s
+2026-10-19 13:43:44   HTTP 422 t3_1v7uh6e -> sleep 20s
+2026-10-19 13:44:21   HTTP 422 t3_1v80i3s -> sleep 20s
+2026-10-19 13:44:42   HTTP 422 t3_1v80i3s -> sleep 40s
+2026-10-19 13:45:49   HTTP 422 t3_1v7xe04 -> sleep 20s
+2026-10-19 13:46:31   HTTP 422 t3_1u7ef62 -> sleep 20s
+2026-10-19 13:46:56 AS 80/2130 threads | 16263/41750 expected comments (39%) | ETA 62 min | req 232 | done total 80
+2026-10-19 13:47:07   HTTP 422 t3_1v8z0oc -> sleep 20s
+2026-10-19 13:48:20   HTTP 422 t3_1v7o3r8 -> sleep 20s
+2026-10-19 13:48:46   HTTP 422 t3_1vahq0b -> sleep 20s
+2026-10-19 13:49:11 AS 90/2130 threads | 17178/41750 expected comments (41%) | ETA 60 min | req 246 | done total 90
+2026-10-19 13:49:44   HTTP 422 t3_1v68txm -> sleep 20s
+2026-10-19 13:50:05   HTTP 422 t3_1v68txm -> sleep 40s
+2026-10-19 13:51:02   HTTP 422 t3_1v6dabk -> sleep 20s
+2026-10-19 13:51:42 AS 100/2130 threads | 18045/41750 expected comments (43%) | ETA 58 min | req 259 | done total 100
+2026-10-19 13:52:31   HTTP 422 t3_1u6gp65 -> sleep 20s
+2026-10-19 13:53:05 AS 110/2130 threads | 18859/41750 expected comments (45%) | ETA 56 min | req 271 | done total 110
+2026-10-19 13:53:12   HTTP 422 t3_1udlw66 -> sleep 20s
+2026-10-19 13:53:38   HTTP 422 t3_1u68de6 -> sleep 20s
+2026-10-19 13:54:04   HTTP 422 t3_1v800xc -> sleep 20s
+2026-10-19 13:54:25   HTTP 422 t3_1v800xc -> sleep 40s
+2026-10-19 13:55:42 AS 120/2130 threads | 19627/41750 expected comments (47%) | ETA 55 min | req 281 | done total 120
+2026-10-19 13:56:03   HTTP 422 t3_1txsdv5 -> sleep 20s
+2026-10-19 13:57:05 AS 130/2130 threads | 20361/41750 expected comments (49%) | ETA 52 min | req 293 | done total 130
+2026-10-19 13:57:06   HTTP 422 t3_1v7zgde -> sleep 20s
+2026-10-19 13:58:24 AS 140/2130 threads | 21057/41750 expected comments (50%) | ETA 50 min | req 304 | done total 140
+2026-10-19 13:58:42   HTTP 422 t3_1v7suvm -> sleep 20s
+2026-10-19 13:59:04   HTTP 422 t3_1v7suvm -> sleep 40s
+2026-10-19 14:00:02   HTTP 422 t3_1twm87g -> sleep 20s
+2026-10-19 14:00:23   HTTP 422 t3_1twm87g -> sleep 40s
+2026-10-19 14:01:25 AS 150/2130 threads | 21707/41750 expected comments (52%) | ETA 50 min | req 314 | done total 150
+2026-10-19 14:01:36   HTTP 422 t3_1vbo84g -> sleep 20s
+2026-10-19 14:02:08   HTTP 422 t3_1v7pv9x -> sleep 20s
+2026-10-19 14:02:39   HTTP 422 t3_1v6viv5 -> sleep 20s
+2026-10-19 14:03:20 AS 160/2130 threads | 22317/41750 expected comments (53%) | ETA 49 min | req 324 | done total 160
+2026-10-19 14:03:21   HTTP 422 t3_1vc0s4j -> sleep 20s
+2026-10-19 14:04:08   HTTP 422 t3_1v83v2z -> sleep 20s
+2026-10-19 14:04:56 AS 170/2130 threads | 22898/41750 expected comments (55%) | ETA 48 min | req 334 | done total 170
+2026-10-19 14:05:03   HTTP 422 t3_1v8n42t -> sleep 20s
+2026-10-19 14:06:09 AS 180/2130 threads | 23460/41750 expected comments (56%) | ETA 46 min | req 344 | done total 180
+2026-10-19 14:06:55   HTTP 422 t3_1uwvlse -> sleep 20s
+2026-10-19 14:07:21 AS 190/2130 threads | 24004/41750 expected comments (57%) | ETA 44 min | req 354 | done total 190
+2026-10-19 14:08:13 AS 200/2130 threads | 24516/41750 expected comments (59%) | ETA 43 min | req 364 | done total 200
+2026-10-19 14:08:30   HTTP 422 t3_1tuq4oa -> sleep 20s
+2026-10-19 14:09:03   HTTP 422 t3_1v85754 -> sleep 20s
+2026-10-19 14:09:40   HTTP 422 t3_1v6zdyb -> sleep 20s
+2026-10-19 14:10:11 AS 210/2130 threads | 25007/41750 expected comments (60%) | ETA 42 min | req 374 | done total 210
+2026-10-19 14:10:12   HTTP 422 t3_1uxtqn7 -> sleep 20s
+2026-10-19 14:10:38   HTTP 422 t3_1uwvlgc -> sleep 20s
+2026-10-19 14:11:45 AS 220/2130 threads | 25486/41750 expected comments (61%) | ETA 41 min | req 384 | done total 220
+2026-10-19 14:12:41 AS 230/2130 threads | 25940/41750 expected comments (62%) | ETA 40 min | req 394 | done total 230
+2026-10-19 14:13:19   HTTP 422 t3_1v7tbk9 -> sleep 20s
+2026-10-19 14:13:51   HTTP 422 t3_1v7a2tu -> sleep 20s
+2026-10-19 14:14:17 AS 240/2130 threads | 26383/41750 expected comments (63%) | ETA 39 min | req 404 | done total 240
+2026-10-19 14:14:29   HTTP 422 t3_1ux3jll -> sleep 20s
+2026-10-19 14:15:29 AS 250/2130 threads | 26810/41750 expected comments (64%) | ETA 38 min | req 414 | done total 250
+2026-10-19 14:15:52   HTTP 422 t3_1v6a7jp -> sleep 20s
+2026-10-19 14:16:42 AS 260/2130 threads | 27225/41750 expected comments (65%) | ETA 37 min | req 424 | done total 260
+2026-10-19 14:17:11   HTTP 422 t3_1v8msf1 -> sleep 20s
+2026-10-19 14:17:32   HTTP 422 t3_1v8msf1 -> sleep 40s
+2026-10-19 14:18:38 AS 270/2130 threads | 27626/41750 expected comments (66%) | ETA 37 min | req 434 | done total 270
+2026-10-19 14:19:32 AS 280/2130 threads | 28011/41750 expected comments (67%) | ETA 35 min | req 444 | done total 280
+2026-10-19 14:19:38   HTTP 422 t3_1vbqnks -> sleep 20s
+2026-10-19 14:20:27   HTTP 422 t3_1v6bwkm -> sleep 20s
+2026-10-19 14:21:04   HTTP 422 t3_1uqtuz8 -> sleep 20s
+2026-10-19 14:21:25   HTTP 422 t3_1uqtuz8 -> sleep 40s
+2026-10-19 14:22:08   HTTP 422 t3_1uqtuz8 -> sleep 80s
+2026-10-19 14:23:33 AS 290/2130 threads | 28389/41750 expected comments (68%) | ETA 36 min | req 454 | done total 290
+2026-10-19 14:24:12   HTTP 422 t3_1v8w9ua -> sleep 20s
+2026-10-19 14:24:43   HTTP 422 t3_1v7dmhd -> sleep 20s
+2026-10-19 14:25:07 AS 300/2130 threads | 28754/41750 expected comments (69%) | ETA 35 min | req 464 | done total 300
+2026-10-19 14:25:40   HTTP 422 t3_1v8mrtv -> sleep 20s
+2026-10-19 14:26:02   HTTP 422 t3_1v8mrtv -> sleep 40s
+2026-10-19 14:26:42   HTTP 422 t3_1v8mrtv -> sleep 80s
+2026-10-19 14:28:15   HTTP 422 t3_1v75f7z -> sleep 20s
+2026-10-19 14:28:46 AS 310/2130 threads | 29105/41750 expected comments (70%) | ETA 35 min | req 474 | done total 310
+2026-10-19 14:28:58   HTTP 422 t3_1uztplk -> sleep 20s
+2026-10-19 14:29:47   HTTP 422 t3_1v8phje -> sleep 20s
+2026-10-19 14:30:23 AS 320/2130 threads | 29445/41750 expected comments (71%) | ETA 35 min | req 484 | done total 320
+2026-10-19 14:31:03   HTTP 422 t3_1u12tyw -> sleep 20s
+2026-10-19 14:31:24   HTTP 422 t3_1u12tyw -> sleep 40s
+2026-10-19 14:32:21 AS 330/2130 threads | 29778/41750 expected comments (71%) | ETA 34 min | req 494 | done total 330
+2026-10-19 14:32:48   HTTP 422 t3_1v88jxr -> sleep 20s
+2026-10-19 14:33:29   HTTP 422 t3_1v6v3o9 -> sleep 20s
+2026-10-19 14:33:54 AS 340/2130 threads | 30098/41750 expected comments (72%) | ETA 34 min | req 504 | done total 340
+2026-10-19 14:34:32   HTTP 422 t3_1v9t0xl -> sleep 20s
+2026-10-19 14:34:59   HTTP 422 t3_1v8t5s5 -> sleep 20s
+2026-10-19 14:35:31 AS 350/2130 threads | 30408/41750 expected comments (73%) | ETA 33 min | req 514 | done total 350
+2026-10-19 14:35:43   HTTP 422 t3_1v6b22g -> sleep 20s
+2026-10-19 14:36:21   HTTP 422 t3_1tyh5hg -> sleep 20s
+2026-10-19 14:37:07 AS 360/2130 threads | 30708/41750 expected comments (74%) | ETA 32 min | req 524 | done total 360
+2026-10-19 14:37:13   HTTP 422 t3_1u07q9k -> sleep 20s
+2026-10-19 14:37:34   HTTP 422 t3_1u07q9k -> sleep 40s
+2026-10-19 14:38:56   HTTP 422 t3_1v6w4us -> sleep 20s
+2026-10-19 14:39:21 AS 370/2130 threads | 30998/41750 expected comments (74%) | ETA 32 min | req 534 | done total 370
+2026-10-19 14:39:32   HTTP 422 t3_1v690o9 -> sleep 20s
+2026-10-19 14:40:21   HTTP 422 t3_1v29r7t -> sleep 20s
+2026-10-19 14:40:56 AS 380/2130 threads | 31282/41750 expected comments (75%) | ETA 31 min | req 544 | done total 380
+2026-10-19 14:41:02   HTTP 422 t3_1v8wm4d -> sleep 20s
+2026-10-19 14:41:34   HTTP 422 t3_1v7vkxx -> sleep 20s
+2026-10-19 14:42:32 AS 390/2130 threads | 31560/41750 expected comments (76%) | ETA 31 min | req 554 | done total 390
+2026-10-19 14:43:00   HTTP 422 t3_1v7s05v -> sleep 20s
+2026-10-19 14:43:32   HTTP 422 t3_1v7ofvh -> sleep 20s
+2026-10-19 14:44:08 AS 400/2130 threads | 31830/41750 expected comments (76%) | ETA 30 min | req 564 | done total 400
+2026-10-19 14:44:09 batch: 11710 threads, ~191856 comments
+2026-10-19 14:44:37   HTTP 422 t3_1vbz46n -> sleep 20s
+2026-10-19 14:47:12   HTTP 422 t3_1v65hjb -> sleep 20s
+2026-10-19 14:47:34   HTTP 422 t3_1v65hjb -> sleep 40s
+2026-10-19 14:48:20   HTTP 422 t3_1v2evbg -> sleep 20s
+2026-10-19 14:48:48   HTTP 422 t3_1v2evbg -> sleep 20s
+2026-10-19 14:49:16   HTTP 422 t3_1v2evbg -> sleep 20s
+2026-10-19 14:49:42   HTTP 422 t3_1v2evbg -> sleep 20s
+2026-10-19 14:50:48   HTTP 422 t3_1vapjm4 -> sleep 20s
+2026-10-19 14:51:09   HTTP 422 t3_1vapjm4 -> sleep 40s
+2026-10-19 14:51:55   HTTP 422 t3_1vapjm4 -> sleep 20s
+2026-10-19 14:54:27   HTTP 422 t3_1ux27s2 -> sleep 20s
+2026-10-19 14:55:01   HTTP 422 t3_1ux27s2 -> sleep 20s
+2026-10-19 14:55:44   HTTP 422 t3_1ux27s2 -> sleep 20s
+2026-10-19 14:56:10   HTTP 422 t3_1twefia -> sleep 20s
+2026-10-19 14:56:42   HTTP 422 t3_1twefia -> sleep 20s
+2026-10-19 14:58:15   HTTP 422 t3_1v65bai -> sleep 20s
+2026-10-19 14:58:42   HTTP 422 t3_1v65bai -> sleep 20s
+2026-10-19 14:59:07 AS 10/11710 threads | 7055/191856 expected comments (4%) | ETA 392 min | req 654 | done total 410
+2026-10-19 14:59:24   HTTP 422 t3_1uy8pne -> sleep 20s
+2026-10-19 15:00:05   HTTP 422 t3_1v8evdr -> sleep 20s
+2026-10-19 15:00:36   HTTP 422 t3_1v8evdr -> sleep 20s
+2026-10-19 15:01:07   HTTP 422 t3_1v8evdr -> sleep 20s
+2026-10-19 15:02:28   HTTP 422 t3_1v490r2 -> sleep 20s
+2026-10-19 15:03:18   HTTP 422 t3_1v88z1f -> sleep 20s
+2026-10-19 15:04:07   HTTP 422 t3_1v1nv3g -> sleep 20s
+2026-10-19 15:05:05   HTTP 422 t3_1v5cpfa -> sleep 20s
+2026-10-19 15:07:07 AS 20/11710 threads | 11555/191856 expected comments (6%) | ETA 358 min | req 710 | done total 420
+2026-10-19 15:07:08   HTTP 422 t3_1ux6ook -> sleep 20s
+2026-10-19 15:08:57   HTTP 422 t3_1v7x1rq -> sleep 20s
+2026-10-19 15:10:26   HTTP 422 t3_1v3a4sa -> sleep 20s
+2026-10-19 15:11:39   HTTP 422 t3_1v7x2zd -> sleep 20s
+2026-10-19 15:12:34 AS 30/11710 threads | 15008/191856 expected comments (8%) | ETA 335 min | req 757 | done total 430
+2026-10-19 15:12:49   HTTP 422 t3_1u96ifw -> sleep 20s
+2026-10-19 15:15:21   HTTP 422 t3_1v75ivg -> sleep 20s
+2026-10-19 15:16:02   HTTP 422 t3_1v75ivg -> sleep 20s
+2026-10-19 15:16:44   HTTP 422 t3_1v907ik -> sleep 20s
+2026-10-19 15:17:05   HTTP 422 t3_1v907ik -> sleep 40s
+2026-10-19 15:17:46   HTTP 422 t3_1v907ik -> sleep 80s
+2026-10-19 15:19:14   HTTP 422 t3_1v6xz69 -> sleep 20s
+2026-10-19 15:19:50   HTTP 422 t3_1v6xz69 -> sleep 20s
+2026-10-19 15:20:15 AS 40/11710 threads | 17920/191856 expected comments (9%) | ETA 350 min | req 796 | done total 440
+2026-10-19 15:20:21   HTTP 422 t3_1u0j79a -> sleep 20s
+2026-10-19 15:20:52   HTTP 422 t3_1u0j79a -> sleep 20s
+2026-10-19 15:21:13   HTTP 422 t3_1u0j79a -> sleep 40s
+2026-10-19 15:23:18   HTTP 422 t3_1uzp21h -> sleep 20s
+2026-10-19 15:24:51 AS 50/11710 threads | 20542/191856 expected comments (11%) | ETA 340 min | req 829 | done total 450
+2026-10-19 15:26:21   HTTP 422 t3_1v5z0mq -> sleep 20s
+2026-10-19 15:26:42   HTTP 422 t3_1v5z0mq -> sleep 40s
+2026-10-19 15:27:23   HTTP 422 t3_1v5z0mq -> sleep 80s
+2026-10-19 15:29:16   HTTP 422 t3_1v2icn3 -> sleep 20s
+2026-10-19 15:30:07   HTTP 422 t3_1v7s210 -> sleep 20s
+2026-10-19 15:30:34   HTTP 422 t3_1v7s210 -> sleep 20s
+2026-10-19 15:31:00 AS 60/11710 threads | 22837/191856 expected comments (12%) | ETA 347 min | req 859 | done total 460
+2026-10-19 15:31:52   HTTP 422 t3_1v5awyf -> sleep 20s
+2026-10-19 15:32:14   HTTP 422 t3_1v5awyf -> sleep 40s
+2026-10-19 15:32:54   HTTP 422 t3_1v5awyf -> sleep 80s
+2026-10-19 15:35:18   HTTP 422 t3_1v6379q -> sleep 20s
+2026-10-19 15:36:33 AS 70/11710 threads | 24996/191856 expected comments (13%) | ETA 350 min | req 889 | done total 470
+2026-10-19 15:36:33   HTTP 422 t3_1v5dy8s -> sleep 20s
+2026-10-19 15:37:48   HTTP 422 t3_1vaxif4 -> sleep 20s
+2026-10-19 15:38:10   HTTP 422 t3_1vaxif4 -> sleep 40s
+2026-10-19 15:39:24   HTTP 422 t3_1u6eb6o -> sleep 20s
+2026-10-19 15:40:14   HTTP 422 t3_1v64pec -> sleep 20s
+2026-10-19 15:40:57   HTTP 422 t3_1v51xad -> sleep 20s
+2026-10-19 15:41:24   HTTP 422 t3_1v51xad -> sleep 20s
+2026-10-19 15:41:46   HTTP 422 t3_1v51xad -> sleep 40s
+2026-10-19 15:42:27   HTTP 422 t3_1v51xad -> sleep 80s
+2026-10-19 15:44:14 AS 80/11710 threads | 27071/191856 expected comments (14%) | ETA 366 min | req 920 | done total 480
+2026-10-19 15:44:48   HTTP 422 t3_1v0ip2t -> sleep 20s
+2026-10-19 15:45:10   HTTP 422 t3_1v0ip2t -> sleep 40s
+2026-10-19 15:46:01   HTTP 422 t3_1v0ip2t -> sleep 20s
+2026-10-19 15:47:02   HTTP 422 t3_1v5b497 -> sleep 20s
+2026-10-19 15:47:23   HTTP 422 t3_1v5b497 -> sleep 40s
+2026-10-19 15:48:04   HTTP 422 t3_1v5b497 -> sleep 80s
+2026-10-19 15:49:58   HTTP 422 t3_1v637tr -> sleep 20s
+2026-10-19 15:50:19   HTTP 422 t3_1v637tr -> sleep 40s
+2026-10-19 15:51:22   HTTP 422 t3_1tyeihg -> sleep 20s
+2026-10-19 15:52:05   HTTP 422 t3_1v4l7gi -> sleep 20s
+2026-10-19 15:52:31 AS 90/11710 threads | 29045/191856 expected comments (15%) | ETA 383 min | req 950 | done total 490
+2026-10-19 15:53:02   HTTP 422 t3_1umyxhj -> sleep 20s
+2026-10-19 15:53:52   HTTP 422 t3_1uya46c -> sleep 20s
+2026-10-19 15:54:13   HTTP 422 t3_1uya46c -> sleep 40s
+2026-10-19 15:56:33 AS 100/11710 threads | 30904/191856 expected comments (16%) | ETA 377 min | req 978 | done total 500
+2026-10-19 15:56:40   HTTP 422 t3_1uxvl2v -> sleep 20s
+2026-10-19 15:57:00   HTTP 422 t3_1uxvl2v -> sleep 40s
+2026-10-19 15:58:29   HTTP 422 t3_1v0o3kw -> sleep 20s
+2026-10-19 15:59:35   HTTP 422 t3_1v1e0a2 -> sleep 20s
+2026-10-19 16:00:28 AS 110/11710 threads | 32654/191856 expected comments (17%) | ETA 372 min | req 1002 | done total 510
+2026-10-19 16:01:05   HTTP 422 t3_1v0m259 -> sleep 20s
+2026-10-19 16:02:33 AS 120/11710 threads | 34323/191856 expected comments (18%) | ETA 360 min | req 1022 | done total 520
+2026-10-19 16:02:44   HTTP 422 t3_1vbhv96 -> sleep 20s
+2026-10-19 16:03:21   HTTP 422 t3_1v524or -> sleep 20s
+2026-10-19 16:03:41   HTTP 422 t3_1v524or -> sleep 40s
+2026-10-19 16:04:49   HTTP 422 t3_1v6b9sd -> sleep 20s
+2026-10-19 16:05:11   HTTP 422 t3_1v6b9sd -> sleep 40s
+2026-10-19 16:06:08   HTTP 422 t3_1v3opcp -> sleep 20s
+2026-10-19 16:06:46   HTTP 422 t3_1v455oe -> sleep 20s
+2026-10-19 16:07:29   HTTP 422 t3_1v9503q -> sleep 20s
+2026-10-19 16:07:54 AS 130/11710 threads | 35907/191856 expected comments (19%) | ETA 364 min | req 1043 | done total 530
+2026-10-19 16:09:46   HTTP 422 t3_1urju8s -> sleep 20s
+2026-10-19 16:10:12 AS 140/11710 threads | 37437/191856 expected comments (20%) | ETA 355 min | req 1064 | done total 540
+2026-10-19 16:10:13   HTTP 422 t3_1vbpwp8 -> sleep 20s
+2026-10-19 16:11:02   HTTP 422 t3_1v29inq -> sleep 20s
+2026-10-19 16:12:38   HTTP 422 t3_1v8i9if -> sleep 20s
+2026-10-19 16:13:04   HTTP 422 t3_1v8i9if -> sleep 20s
+2026-10-19 16:13:30 AS 150/11710 threads | 38879/191856 expected comments (20%) | ETA 352 min | req 1085 | done total 550
+2026-10-19 16:13:57   HTTP 422 t3_1v45vd2 -> sleep 20s
+2026-10-19 16:14:52   HTTP 422 t3_1v63v3b -> sleep 20s
+2026-10-19 16:16:11   HTTP 422 t3_1v1laic -> sleep 20s
+2026-10-19 16:16:35 AS 160/11710 threads | 40277/191856 expected comments (21%) | ETA 348 min | req 1108 | done total 560
+2026-10-19 16:17:02   HTTP 422 t3_1v4mnhq -> sleep 20s
+2026-10-19 16:17:23   HTTP 422 t3_1v4mnhq -> sleep 40s
+2026-10-19 16:19:00   HTTP 422 t3_1v0uceb -> sleep 20s
+2026-10-19 16:19:42 AS 170/11710 threads | 41624/191856 expected comments (22%) | ETA 345 min | req 1128 | done total 570
+2026-10-19 16:19:59   HTTP 422 t3_1v3ioif -> sleep 20s
+2026-10-19 16:21:52 AS 180/11710 threads | 42929/191856 expected comments (22%) | ETA 339 min | req 1148 | done total 580
+2026-10-19 16:22:18   HTTP 422 t3_1v2sb5b -> sleep 20s
+2026-10-19 16:23:16   HTTP 422 t3_1v7dpdn -> sleep 20s
+2026-10-19 16:24:13   HTTP 422 t3_1v58cue -> sleep 20s
+2026-10-19 16:24:54 AS 190/11710 threads | 44199/191856 expected comments (23%) | ETA 337 min | req 1171 | done total 590
+2026-10-19 16:25:00   HTTP 422 t3_1v0emua -> sleep 20s
+2026-10-19 16:25:32   HTTP 422 t3_1v3qb4r -> sleep 20s
+2026-10-19 16:26:04   HTTP 422 t3_1v5e0fc -> sleep 20s
+2026-10-19 16:26:36   HTTP 422 t3_1v3548t -> sleep 20s
+2026-10-19 16:28:03 AS 200/11710 threads | 45422/191856 expected comments (24%) | ETA 335 min | req 1191 | done total 600
+2026-10-19 16:28:47   HTTP 422 t3_1v3igix -> sleep 20s
+2026-10-19 16:29:55   HTTP 422 t3_1u6g9bo -> sleep 20s
+2026-10-19 16:30:16   HTTP 422 t3_1u6g9bo -> sleep 40s
+2026-10-19 16:31:04   HTTP 422 t3_1v9p9oq -> sleep 20s
+2026-10-19 16:31:24   HTTP 422 t3_1v9p9oq -> sleep 40s
+2026-10-19 16:32:15 AS 210/11710 threads | 46609/191856 expected comments (24%) | ETA 337 min | req 1211 | done total 610
+2026-10-19 16:32:16   HTTP 422 t3_1v6hn1k -> sleep 20s
+2026-10-19 16:32:37   HTTP 422 t3_1v6hn1k -> sleep 40s
+2026-10-19 16:33:24   HTTP 422 t3_1v6hn1k -> sleep 20s
+2026-10-19 16:33:51   HTTP 422 t3_1v655cn -> sleep 20s
+2026-10-19 16:35:21   HTTP 422 t3_1v4osrr -> sleep 20s
+2026-10-19 16:36:11 AS 220/11710 threads | 47775/191856 expected comments (25%) | ETA 338 min | req 1231 | done total 620
+2026-10-19 16:36:12   HTTP 422 t3_1u3qtbq -> sleep 20s
+2026-10-19 16:37:50   HTTP 422 t3_1v71q9i -> sleep 20s
+2026-10-19 16:38:16   HTTP 422 t3_1v71q9i -> sleep 20s
+2026-10-19 16:38:49   HTTP 422 t3_1uybsc9 -> sleep 20s
+2026-10-19 16:39:16   HTTP 422 t3_1v40rwr -> sleep 20s
+2026-10-19 16:39:47 AS 230/11710 threads | 48904/191856 expected comments (25%) | ETA 338 min | req 1251 | done total 630
+2026-10-19 16:40:14   HTTP 422 t3_1v64cxx -> sleep 20s
+2026-10-19 16:41:02   HTTP 422 t3_1uyqbf7 -> sleep 20s
+2026-10-19 16:42:22 AS 240/11710 threads | 50001/191856 expected comments (26%) | ETA 335 min | req 1271 | done total 640
+2026-10-19 16:42:23   HTTP 422 t3_1v0xb4m -> sleep 20s
+2026-10-19 16:42:49   HTTP 422 t3_1v0xb4m -> sleep 20s
+2026-10-19 16:43:15   HTTP 422 t3_1u5ok05 -> sleep 20s
+2026-10-19 16:43:36   HTTP 422 t3_1u5ok05 -> sleep 40s
+2026-10-19 16:45:14   HTTP 422 t3_1u68if0 -> sleep 20s
+2026-10-19 16:45:40   HTTP 422 t3_1u68if0 -> sleep 20s
+2026-10-19 16:46:01   HTTP 422 t3_1u68if0 -> sleep 40s
+2026-10-19 16:46:48   HTTP 422 t3_1tym91x -> sleep 20s
+2026-10-19 16:47:42 AS 250/11710 threads | 51069/191856 expected comments (27%) | ETA 341 min | req 1291 | done total 650
+2026-10-19 16:47:48   HTTP 422 t3_1uycgpc -> sleep 20s
+2026-10-19 16:49:21   HTTP 422 t3_1v1qkj8 -> sleep 20s
+2026-10-19 16:49:42   HTTP 422 t3_1v1qkj8 -> sleep 40s
+2026-10-19 16:50:41   HTTP 422 t3_1v812t6 -> sleep 20s
+2026-10-19 16:51:18 AS 260/11710 threads | 52107/191856 expected comments (27%) | ETA 341 min | req 1311 | done total 660
+2026-10-19 16:51:42   HTTP 422 t3_1uzvr2v -> sleep 20s
+2026-10-19 16:52:10   HTTP 422 t3_1uzvr2v -> sleep 20s
+2026-10-19 16:53:48 AS 270/11710 threads | 53124/191856 expected comments (28%) | ETA 339 min | req 1331 | done total 670
+2026-10-19 16:53:49   HTTP 422 t3_1uws4ve -> sleep 20s
+2026-10-19 16:54:26   HTTP 422 t3_1u07s6x -> sleep 20s
+2026-10-19 16:55:02   HTTP 422 t3_1v1u8rs -> sleep 20s
+2026-10-19 16:55:23   HTTP 422 t3_1v1u8rs -> sleep 40s
+2026-10-19 16:56:34   HTTP 422 t3_1v5xa4c -> sleep 20s
+2026-10-19 16:57:38 AS 280/11710 threads | 54120/191856 expected comments (28%) | ETA 340 min | req 1351 | done total 680
+2026-10-19 16:57:39   HTTP 422 t3_1v1jncx -> sleep 20s
+2026-10-19 16:58:10   HTTP 422 t3_1v2f9q2 -> sleep 20s
+2026-10-19 16:59:07   HTTP 422 t3_1u1xpxl -> sleep 20s
+2026-10-19 17:00:25 AS 290/11710 threads | 55096/191856 expected comments (29%) | ETA 338 min | req 1371 | done total 690
+2026-10-19 17:00:42   HTTP 422 t3_1u5c7b4 -> sleep 20s
+2026-10-19 17:01:25   HTTP 422 t3_1v61jah -> sleep 20s
+2026-10-19 17:02:01   HTTP 422 t3_1v5j095 -> sleep 20s
+2026-10-19 17:02:38   HTTP 422 t3_1v47hrl -> sleep 20s
+2026-10-19 17:03:18 AS 300/11710 threads | 56048/191856 expected comments (29%) | ETA 337 min | req 1388 | done total 700
+2026-10-19 17:04:00   HTTP 422 t3_1ty8pa7 -> sleep 20s
+2026-10-19 17:04:39   HTTP 422 t3_1v63bf5 -> sleep 20s
+2026-10-19 17:05:00   HTTP 422 t3_1v63bf5 -> sleep 40s
+2026-10-19 17:05:50 AS 310/11710 threads | 56970/191856 expected comments (30%) | ETA 335 min | req 1401 | done total 710
+2026-10-19 17:06:51 AS 320/11710 threads | 57874/191856 expected comments (30%) | ETA 330 min | req 1413 | done total 720
+2026-10-19 17:06:58   HTTP 422 t3_1v3icik -> sleep 20s
+2026-10-19 17:07:39   HTTP 422 t3_1v4cr72 -> sleep 20s
+2026-10-19 17:08:35 AS 330/11710 threads | 58765/191856 expected comments (31%) | ETA 327 min | req 1425 | done total 730
+2026-10-19 17:09:42 AS 340/11710 threads | 59639/191856 expected comments (31%) | ETA 323 min | req 1439 | done total 740
+2026-10-19 17:10:37 AS 350/11710 threads | 60490/191856 expected comments (32%) | ETA 318 min | req 1450 | done total 750
+2026-10-19 17:10:59   HTTP 422 t3_1v57ov9 -> sleep 20s
+2026-10-19 17:11:49 AS 360/11710 threads | 61324/191856 expected comments (32%) | ETA 314 min | req 1460 | done total 760
+2026-10-19 17:12:05   HTTP 422 t3_1v1m6h5 -> sleep 20s
+2026-10-19 17:12:47   HTTP 422 t3_1u94a86 -> sleep 20s
+2026-10-19 17:13:13   HTTP 422 t3_1v500gn -> sleep 20s
+2026-10-19 17:13:34   HTTP 422 t3_1v500gn -> sleep 40s
+2026-10-19 17:14:30   HTTP 422 t3_1uzxp2e -> sleep 20s
+2026-10-19 17:14:55 AS 370/11710 threads | 62147/191856 expected comments (32%) | ETA 315 min | req 1472 | done total 770
+2026-10-19 17:15:00   HTTP 422 t3_1v7yi5n -> sleep 20s
+2026-10-19 17:16:09 AS 380/11710 threads | 62954/191856 expected comments (33%) | ETA 311 min | req 1483 | done total 780
+2026-10-19 17:16:36   HTTP 422 t3_1v4fj53 -> sleep 20s
+2026-10-19 17:17:21 AS 390/11710 threads | 63743/191856 expected comments (33%) | ETA 308 min | req 1493 | done total 790
+2026-10-19 17:17:27   HTTP 422 t3_1v1fwoy -> sleep 20s
+2026-10-19 17:17:48   HTTP 422 t3_1v1fwoy -> sleep 40s
+2026-10-19 17:18:45   HTTP 422 t3_1tz6dr4 -> sleep 20s
+2026-10-19 17:19:44 AS 400/11710 threads | 64517/191856 expected comments (34%) | ETA 307 min | req 1505 | done total 800
+2026-10-19 17:19:47 batch: 18539 threads, ~270638 comments
+2026-10-19 17:20:04   HTTP 422 t3_1uvebgx -> sleep 20s
+2026-10-19 17:20:40   HTTP 422 t3_1uvebgx -> sleep 20s
+2026-10-19 17:21:36   HTTP 422 t3_1uvebgx -> sleep 20s
+2026-10-19 17:22:25   HTTP 422 t3_1v7x93w -> sleep 20s
+2026-10-19 17:23:02   HTTP 422 t3_1v7x93w -> sleep 20s
+2026-10-19 17:23:25   HTTP 422 t3_1v7x93w -> sleep 40s
+2026-10-19 17:24:06   HTTP 422 t3_1v7x93w -> sleep 80s
+2026-10-19 17:25:32   HTTP 422 t3_1v7x93w -> sleep 20s
+2026-10-19 17:28:08   HTTP 422 t3_1uvzogo -> sleep 20s
+2026-10-19 17:28:40   HTTP 422 t3_1v1f0gz -> sleep 20s
+2026-10-19 17:29:38   HTTP 422 t3_1v5tq8z -> sleep 20s
+2026-10-19 17:29:59   HTTP 422 t3_1v5tq8z -> sleep 40s
+2026-10-19 17:30:55   HTTP 422 t3_1v5tq8z -> sleep 20s
+2026-10-19 17:31:16   HTTP 422 t3_1v5tq8z -> sleep 40s
+2026-10-19 17:32:03   HTTP 422 t3_1v5tq8z -> sleep 20s
+2026-10-19 17:32:35   HTTP 422 t3_1uwx7gd -> sleep 20s
+2026-10-19 17:33:17   HTTP 422 t3_1uwx7gd -> sleep 20s
+2026-10-19 17:34:54 AS 10/18539 threads | 6412/270638 expected comments (2%) | ETA 623 min | req 1588 | done total 810
+2026-10-19 17:35:05   HTTP 422 t3_1uzk8s2 -> sleep 20s
+2026-10-19 17:35:26   HTTP 422 t3_1uzk8s2 -> sleep 40s
+2026-10-19 17:36:17   HTTP 422 t3_1uzk8s2 -> sleep 20s
+2026-10-19 17:37:16   HTTP 422 t3_1uzl77b -> sleep 20s
+2026-10-19 17:38:22   HTTP 422 t3_1v1nj3b -> sleep 20s
+2026-10-19 17:40:31   HTTP 422 t3_1uvhgii -> sleep 20s
+2026-10-19 17:41:03   HTTP 422 t3_1uvhgii -> sleep 20s
+2026-10-19 17:42:29 AS 20/18539 threads | 10860/270638 expected comments (4%) | ETA 543 min | req 1644 | done total 820
+2026-10-19 17:42:35   HTTP 422 t3_1ux6crt -> sleep 20s
+2026-10-19 17:43:31   HTTP 422 t3_1v1cgr6 -> sleep 20s
+2026-10-19 17:44:37   HTTP 422 t3_1v1eh4i -> sleep 20s
+2026-10-19 17:45:55   HTTP 422 t3_1uyowmi -> sleep 20s
+2026-10-19 17:46:32   HTTP 422 t3_1v9nnia -> sleep 20s
+2026-10-19 17:47:57 AS 30/18539 threads | 14407/270638 expected comments (5%) | ETA 501 min | req 1688 | done total 830
+2026-10-19 17:48:34   HTTP 422 t3_1uyx3w4 -> sleep 20s
+2026-10-19 17:49:06   HTTP 422 t3_1v2ghhc -> sleep 20s
+2026-10-19 17:49:32   HTTP 422 t3_1v2ghhc -> sleep 20s
+2026-10-19 17:50:36   HTTP 422 t3_1uznejr -> sleep 20s
+2026-10-19 17:50:57   HTTP 422 t3_1uznejr -> sleep 40s
+2026-10-19 17:52:04   HTTP 422 t3_1uwycma -> sleep 20s
+2026-10-19 17:52:35   HTTP 422 t3_1uyoiq2 -> sleep 20s
+2026-10-19 17:54:15 AS 40/18539 threads | 17559/270638 expected comments (6%) | ETA 497 min | req 1729 | done total 840
+2026-10-19 17:54:36   HTTP 422 t3_1uy1fgs -> sleep 20s
+2026-10-19 17:55:32   HTTP 422 t3_1v1cjwl -> sleep 20s
+2026-10-19 17:58:08 AS 50/18539 threads | 20255/270638 expected comments (7%) | ETA 474 min | req 1767 | done total 850
+2026-10-19 17:58:39   HTTP 422 t3_1uzl5wt -> sleep 20s
+2026-10-19 17:59:30   HTTP 422 t3_1v0kpdi -> sleep 20s
+2026-10-19 18:00:02   HTTP 422 t3_1uwct2n -> sleep 20s
+2026-10-19 18:01:27   HTTP 422 t3_1uyqdis -> sleep 20s
+2026-10-19 18:02:08   HTTP 422 t3_1v1cmfc -> sleep 20s
+2026-10-19 18:02:28   HTTP 422 t3_1v1cmfc -> sleep 40s
+2026-10-19 18:03:13 AS 60/18539 threads | 22656/270638 expected comments (8%) | ETA 475 min | req 1798 | done total 860
+2026-10-19 18:04:04   HTTP 422 t3_1uv8br2 -> sleep 20s
+2026-10-19 18:05:50   HTTP 422 t3_1uzkh3h -> sleep 20s
+2026-10-19 18:06:22   HTTP 422 t3_1v3mkcs -> sleep 20s
+2026-10-19 18:06:49   HTTP 422 t3_1v3mkcs -> sleep 20s
+2026-10-19 18:07:15 AS 70/18539 threads | 24868/270638 expected comments (9%) | ETA 469 min | req 1829 | done total 870
+2026-10-19 18:08:31   HTTP 422 t3_1v1gjng -> sleep 20s
+2026-10-19 18:09:02   HTTP 422 t3_1v1gjng -> sleep 20s
+2026-10-19 18:09:47   HTTP 422 t3_1uxz5of -> sleep 20s
+2026-10-19 18:10:40   HTTP 422 t3_1v4789k -> sleep 20s
+2026-10-19 18:11:05 AS 80/18539 threads | 26893/270638 expected comments (10%) | ETA 465 min | req 1858 | done total 880
+2026-10-19 18:11:12   HTTP 422 t3_1uy8z37 -> sleep 20s
+2026-10-19 18:11:44   HTTP 422 t3_1uwz90u -> sleep 20s
+2026-10-19 18:12:05   HTTP 422 t3_1uwz90u -> sleep 40s
+2026-10-19 18:13:13   HTTP 422 t3_1uzss44 -> sleep 20s
+2026-10-19 18:13:44   HTTP 422 t3_1v27vqh -> sleep 20s
+2026-10-19 18:14:40   HTTP 422 t3_1uveffl -> sleep 20s
+2026-10-19 18:15:31   HTTP 422 t3_1uzo73g -> sleep 20s
+2026-10-19 18:15:52   HTTP 422 t3_1uzo73g -> sleep 40s
+2026-10-19 18:16:38   HTTP 422 t3_1uzo73g -> sleep 20s
+2026-10-19 18:17:03 AS 90/18539 threads | 28789/270638 expected comments (11%) | ETA 481 min | req 1883 | done total 890
+2026-10-19 18:17:21   HTTP 422 t3_1v292wo -> sleep 20s
+2026-10-19 18:17:46   HTTP 422 t3_1v292wo -> sleep 20s
+2026-10-19 18:19:11   HTTP 422 t3_1uzsw9g -> sleep 20s
+2026-10-19 18:19:37   HTTP 422 t3_1v2f2c8 -> sleep 20s
+2026-10-19 18:20:24 AS 100/18539 threads | 30574/270638 expected comments (11%) | ETA 476 min | req 1905 | done total 900
+2026-10-19 18:20:35   HTTP 422 t3_1v4iz68 -> sleep 20s
+2026-10-19 18:21:38   HTTP 422 t3_1ux0rcy -> sleep 20s
+2026-10-19 18:22:23   HTTP 422 t3_1uz1f1d -> sleep 20s
+2026-10-19 18:23:01   HTTP 422 t3_1uzpg6f -> sleep 20s
+2026-10-19 18:23:41 AS 110/18539 threads | 32237/270638 expected comments (12%) | ETA 473 min | req 1927 | done total 910
+2026-10-19 18:24:03   HTTP 422 t3_1ux8igu -> sleep 20s
+2026-10-19 18:25:24   HTTP 422 t3_1v1i8kg -> sleep 20s
+2026-10-19 18:26:05 AS 120/18539 threads | 33817/270638 expected comments (12%) | ETA 464 min | req 1947 | done total 920
+2026-10-19 18:27:20   HTTP 422 t3_1v2gicb -> sleep 20s
+2026-10-19 18:28:10 AS 130/18539 threads | 35353/270638 expected comments (13%) | ETA 455 min | req 1967 | done total 930
+2026-10-19 18:28:42   HTTP 422 t3_1uyrr7w -> sleep 20s
+2026-10-19 18:29:03   HTTP 422 t3_1uyrr7w -> sleep 40s
+2026-10-19 18:29:48   HTTP 422 t3_1uyr5t1 -> sleep 20s
+2026-10-19 18:30:15   HTTP 422 t3_1uyr5t1 -> sleep 20s
+2026-10-19 18:30:53   HTTP 422 t3_1v3ah60 -> sleep 20s
+2026-10-19 18:31:39   HTTP 422 t3_1uilu4c -> sleep 20s
+2026-10-19 18:32:25 AS 140/18539 threads | 36806/270638 expected comments (14%) | ETA 461 min | req 1988 | done total 940
+2026-10-19 18:33:30   HTTP 422 t3_1uxnx54 -> sleep 20s
+2026-10-19 18:34:38 AS 150/18539 threads | 38210/270638 expected comments (14%) | ETA 455 min | req 2008 | done total 950
+2026-10-19 18:36:22 AS 160/18539 threads | 39561/270638 expected comments (15%) | ETA 447 min | req 2028 | done total 960
+2026-10-19 18:37:25   HTTP 422 t3_1v1nnvp -> sleep 20s
+2026-10-19 18:38:06   HTTP 422 t3_1v1o3wf -> sleep 20s
+2026-10-19 18:38:38   HTTP 422 t3_1uzliom -> sleep 20s
+2026-10-19 18:39:08 AS 170/18539 threads | 40851/270638 expected comments (15%) | ETA 446 min | req 2048 | done total 970
+2026-10-19 18:39:21   HTTP 422 t3_1uw1z7g -> sleep 20s
+2026-10-19 18:41:05   HTTP 422 t3_1uv6vqg -> sleep 20s
+2026-10-19 18:41:31   HTTP 422 t3_1uv6vqg -> sleep 20s
+2026-10-19 18:41:57 AS 180/18539 threads | 42101/270638 expected comments (16%) | ETA 446 min | req 2068 | done total 980
+2026-10-19 18:42:26   HTTP 422 t3_1v0lrpb -> sleep 20s
+2026-10-19 18:42:57   HTTP 422 t3_1v2f1cp -> sleep 20s
+2026-10-19 18:43:18   HTTP 422 t3_1v2f1cp -> sleep 40s
+2026-10-19 18:43:59   HTTP 422 t3_1v2f1cp -> sleep 80s
+2026-10-19 18:46:03   HTTP 422 t3_1v2etob -> sleep 20s
+2026-10-19 18:46:50 AS 190/18539 threads | 43313/270638 expected comments (16%) | ETA 457 min | req 2088 | done total 990
+2026-10-19 18:46:51   HTTP 422 t3_1v1hflu -> sleep 20s
+2026-10-19 18:47:17   HTTP 422 t3_1v1hflu -> sleep 20s
+2026-10-19 18:49:15 AS 200/18539 threads | 44480/270638 expected comments (16%) | ETA 455 min | req 2108 | done total 1000
+2026-10-19 18:50:04   HTTP 422 t3_1v28d4e -> sleep 20s
+2026-10-19 18:50:26   HTTP 422 t3_1v28d4e -> sleep 40s
+2026-10-19 18:51:07   HTTP 422 t3_1v28d4e -> sleep 80s
+2026-10-19 18:53:27   HTTP 422 t3_1v34m81 -> sleep 20s
+2026-10-19 18:53:49   HTTP 422 t3_1v34m81 -> sleep 40s
+2026-10-19 18:54:34 AS 210/18539 threads | 45588/270638 expected comments (17%) | ETA 468 min | req 2129 | done total 1010
+2026-10-19 18:54:52   HTTP 422 t3_1uw2aem -> sleep 20s
+2026-10-19 18:55:13   HTTP 422 t3_1uw2aem -> sleep 40s
+2026-10-19 18:56:00   HTTP 422 t3_1v2d91x -> sleep 20s
+2026-10-19 18:56:42   HTTP 422 t3_1ux3svp -> sleep 20s
+2026-10-19 18:57:18   HTTP 422 t3_1v3r15g -> sleep 20s
+2026-10-19 18:58:04   HTTP 422 t3_1uzk9od -> sleep 20s
+2026-10-19 18:58:45 AS 220/18539 threads | 46654/270638 expected comments (17%) | ETA 475 min | req 2149 | done total 1020
+2026-10-19 18:59:29   HTTP 422 t3_1uplh4t -> sleep 20s
+2026-10-19 19:00:37   HTTP 422 t3_1uxegv4 -> sleep 20s
+2026-10-19 19:01:12 AS 230/18539 threads | 47687/270638 expected comments (18%) | ETA 474 min | req 2169 | done total 1030
+2026-10-19 19:01:13   HTTP 422 t3_1uwg006 -> sleep 20s
+2026-10-19 19:01:44   HTTP 422 t3_1uw3v92 -> sleep 20s
+2026-10-19 19:02:10   HTTP 422 t3_1uw3v92 -> sleep 20s
+2026-10-19 19:02:52   HTTP 422 t3_1v61x6w -> sleep 20s
+2026-10-19 19:04:18 AS 240/18539 threads | 48680/270638 expected comments (18%) | ETA 477 min | req 2189 | done total 1040
+2026-10-19 19:04:40   HTTP 422 t3_1v1o3dv -> sleep 20s
+2026-10-19 19:05:06   HTTP 422 t3_1v1o3dv -> sleep 20s
+2026-10-19 19:06:04   HTTP 422 t3_1uwibj5 -> sleep 20s
+2026-10-19 19:06:30   HTTP 422 t3_1v0n7tl -> sleep 20s
+2026-10-19 19:07:22 AS 250/18539 threads | 49644/270638 expected comments (18%) | ETA 479 min | req 2208 | done total 1050
+2026-10-19 19:07:28   HTTP 422 t3_1uxcff8 -> sleep 20s
+2026-10-19 19:08:54 AS 260/18539 threads | 50587/270638 expected comments (19%) | ETA 475 min | req 2222 | done total 1060
+2026-10-19 19:09:01   HTTP 422 t3_1uwwqzv -> sleep 20s
+2026-10-19 19:10:28 AS 270/18539 threads | 51503/270638 expected comments (19%) | ETA 471 min | req 2236 | done total 1070
+2026-10-19 19:10:49   HTTP 422 t3_1v2mchk -> sleep 20s
+2026-10-19 19:11:10   HTTP 422 t3_1v2mchk -> sleep 40s
+2026-10-19 19:11:54   HTTP 422 t3_1v2mchk -> sleep 80s
+2026-10-19 19:13:31   HTTP 422 t3_1v2eycs -> sleep 20s
+2026-10-19 19:14:12   HTTP 422 t3_1v4ncu8 -> sleep 20s
+2026-10-19 19:14:33   HTTP 422 t3_1v4ncu8 -> sleep 40s
+2026-10-19 19:15:29 AS 280/18539 threads | 52394/270638 expected comments (19%) | ETA 482 min | req 2250 | done total 1080
+2026-10-19 19:15:29 LOW DISK - stop
+2026-10-20 00:19:11 === Arctic Shift thread worker start; done so far 1080
+2026-10-20 00:19:14 batch: 18493 threads, ~251593 comments
+2026-10-20 00:20:06   HTTP 422 t3_1ux9uax -> sleep 20s
+2026-10-20 00:20:31 AS 10/18493 threads | 867/251593 expected comments (0%) | ETA 372 min | req 2260 | done total 1090
+2026-10-20 00:20:48   HTTP 422 t3_1v5a1be -> sleep 20s
+2026-10-20 00:21:15   HTTP 422 t3_1uzkisp -> sleep 20s
+2026-10-20 00:21:51   HTTP 422 t3_1usld2k -> sleep 20s
+2026-10-20 00:22:33 AS 20/18493 threads | 1719/251593 expected comments (1%) | ETA 483 min | req 2271 | done total 1100
+2026-10-20 00:23:17   HTTP 422 t3_1unr7rq -> sleep 20s
+2026-10-20 00:23:37   HTTP 422 t3_1unr7rq -> sleep 40s
+2026-10-20 00:24:39 AS 30/18493 threads | 2551/251593 expected comments (1%) | ETA 529 min | req 2283 | done total 1110
+2026-10-20 00:25:12   HTTP 422 t3_1v1nio8 -> sleep 20s
+2026-10-20 00:25:51 AS 40/18493 threads | 3360/251593 expected comments (1%) | ETA 490 min | req 2293 | done total 1120
+2026-10-20 00:26:04   HTTP 422 t3_1v1lp9n -> sleep 20s
+2026-10-20 00:27:13 AS 50/18493 threads | 4150/251593 expected comments (2%) | ETA 477 min | req 2304 | done total 1130
+2026-10-20 00:27:25   HTTP 422 t3_1vb9ben -> sleep 20s
+2026-10-20 00:27:46   HTTP 422 t3_1vb9ben -> sleep 40s
+2026-10-20 00:28:32   HTTP 422 t3_1va04v9 -> sleep 20s
+2026-10-20 00:28:53   HTTP 422 t3_1va04v9 -> sleep 40s
+2026-10-20 00:30:05   HTTP 422 t3_1uzr6jt -> sleep 20s
+2026-10-20 00:30:26   HTTP 422 t3_1uzr6jt -> sleep 40s
+2026-10-20 00:31:17 AS 60/18493 threads | 4922/251593 expected comments (2%) | ETA 604 min | req 2315 | done total 1140
+2026-10-20 00:31:17 LOW DISK - stop

@@ -1,0 +1,5 @@
+network,nodes,edges,total_weight,density,reciprocity,weakly_connected_components,largest_wcc_nodes,largest_wcc_share,avg_clustering,mean_in_degree
+"X (this study: 1,727 unique posts, one interaction per post-target)",466,600,764,0.002769,0.0367,50,342,0.7339,0.0717,1.288
+"X (unique posts, reply+mention+quote counted separately)",466,600,829,0.002769,0.0367,50,342,0.7339,0.0717,1.288
+"X (midsem replication: 1,823 rows incl. cross-group duplicates)",466,600,899,0.002769,0.0367,50,342,0.7339,0.0717,1.288
+Reddit (replies in relevant threads + u/ mentions),43828,107425,135822,5.6e-05,0.3151,22,43760,0.9984,0.0537,2.451

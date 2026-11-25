@@ -1,0 +1,5 @@
+file,items,note
+submissions.jsonl,29647,unique submissions matched by any query
+comments_threads_as.jsonl,172447,full threads via Arctic Shift
+comments_threads.jsonl,0,full threads via PullPush
+comments_keyword.jsonl,0,keyword-matched comments anywhere on Reddit

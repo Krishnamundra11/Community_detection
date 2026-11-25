@@ -1,0 +1,22 @@
+community,size,share_of_wcc_%,internal_edges,internal_weight,density,top_hubs_in,top_senders_out,composition_top,is_major
+1,57,16.7,81,111,0.0508,"cockroachisback, wangchuk66, sauravdassss","theredmike, sauravdassss, cockroachisback",citizen_other 37%; news_media 32%; politician_party 12%,True
+2,53,15.5,55,95,0.0399,"abhijeet_dipke, newsarenaindia, officeofut","hcp_2026, cjp_is_back, _sabanaqvi",citizen_other 43%; news_media 23%; other 13%,True
+3,37,10.8,39,39,0.0586,"ani, arvindkejriwal, aamaadmiparty","riarevealed, nileshhw, shatrugansinha",other 57%; citizen_other 16%; news_media 11%,True
+4,35,10.2,49,61,0.0824,"delhipolice, narendramodi, cpdelhi","iatulkrishan1, dcpnewdelhi, dchaurasia2312",other 43%; news_media 23%; citizen_other 14%,True
+5,24,7.0,23,23,0.0833,"ians_india, ddnewslive, dtptraffic","rdxthinksthat, zoo_bear, ndtv",other 62%; news_media 21%; public_figure 8%,True
+6,19,5.6,18,29,0.1053,"grok, factcheckpulse, chidambaram_07","grok, factcheckpulse, chidambaram_07",other 53%; citizen_other 37%; public_figure 5%,True
+7,15,4.4,16,21,0.1524,"cjp_for_india, cockroach4india, uddhavthackeray","news24tvchannel, iamutpalkhot, bindaswith",other 47%; news_media 40%; politician_party 7%,True
+8,14,4.1,14,14,0.1538,"cjp_2029, dpradhanbjp, eduminofindia","thirdseat_org, rishi_suri, onrecordindia",other 43%; citizen_other 36%; news_media 21%,True
+9,12,3.5,12,27,0.1818,"sushil_verma9, vijaita, shashiskashyap","the_hindu, vijaita, arfakhanums",other 67%; news_media 25%; citizen_other 8%,True
+10,11,3.2,10,10,0.1818,"uppolice, adminlko, bulandshahrpol","bstvlive, kool96008, ridhu417sharma",other 73%; partisan_citizen 18%; news_media 9%,True
+11,10,2.9,11,14,0.2444,"ritikachandola, opindia_com, keshavmalan93","opindia_com, opindia_tv, ravisharmatalks",citizen_other 40%; news_media 30%; other 20%,True
+12,9,2.6,8,22,0.2222,"pushpendra_mp_, samarthgrover87, anmolpritamnd","newslaundry, sphavisha, mnshap",other 67%; news_media 22%; citizen_other 11%,True
+13,8,2.3,8,8,0.2857,"iarpitspeaks, nevilleskynews, byomkesbakshy","mysticalbalaa, henrysingh_x, s_insilence",citizen_other 38%; other 25%; public_figure 25%,True
+14,8,2.3,7,7,0.25,"unhumanrights, un, firstpost","ultrapromax100, unhumanrights, un",other 88%; citizen_other 12%,True
+15,6,1.8,5,6,0.3333,"dainikbhaskar, ankursingh, sonal_mk","ankursingh, varunkrrana, soulefacts",citizen_other 50%; other 17%; partisan_citizen 17%,False
+16,5,1.5,4,4,0.4,"newsalgebraind, desh_bhakati, pratiba_sk","aryakthinks, pratiba_sk, rajeshanand3263",citizen_other 60%; politician_party 20%; news_media 20%,False
+17,5,1.5,4,5,0.4,"nehadhiman1004, rajatpandeyjf, hemraj____","thelallantop, nehadhiman1004, rajatpandeyjf",other 80%; news_media 20%,False
+18,4,1.2,3,3,0.5,"khanumarfa, battakashmiri, incognito_qfs","incognito_qfs, battakashmiri, hudconntroversy",citizen_other 75%; other 25%,False
+19,4,1.2,3,4,0.5,"thewire_in, sravastidasgup2, atulhowale18","thewire_in, vipul_reports, sravastidasgup2",other 50%; news_media 25%; citizen_other 25%,False
+20,3,0.9,2,2,0.6667,"priyanshi50, peektv_in, khandelw13sagar","khandelw13sagar, peektv_in, priyanshi50",other 33%; news_media 33%; citizen_other 33%,False
+21,3,0.9,2,2,0.6667,"vinodjakharin, nsui, thesinceredude","thesinceredude, vinodjakharin, nsui",other 67%; citizen_other 33%,False

@@ -1,0 +1,4 @@
+source_stance \ target_stance,PRO,NEUTRAL,ANTI
+PRO,1.52,0.78,0.45
+NEUTRAL,0.77,1.14,1.02
+ANTI,0.4,1.08,2.67

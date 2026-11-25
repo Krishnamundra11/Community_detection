@@ -1,0 +1,123 @@
+x_handle,reddit_items,subreddits,x_type,x_stance,reddit_pro,reddit_anti
+unknown (x.com/i/ link),157,43,not in X corpus,not in X corpus,45,26
+savantvirtuoso,29,1,not in X corpus,not in X corpus,0,0
+cockroachisback,15,11,cjp_org,PRO,3,1
+dcpnewdelhi,13,10,police_gov,ANTI,3,0
+ani,13,11,news_media,NEUTRAL,2,3
+dpradhanbjp,11,8,not in X corpus,not in X corpus,3,0
+sauravdassss,10,7,cjp_org,PRO,1,2
+abhijeet_dipke,9,6,cjp_org,PRO,7,1
+pti_news,8,4,news_media,NEUTRAL,1,1
+rishibagree,6,4,citizen_other,ANTI,0,0
+zoo_bear,6,2,public_figure,PRO,1,2
+wangchuk66,6,6,politician_party,PRO,0,0
+askanshul,5,3,news_media,ANTI,2,1
+timesnow,4,4,news_media,ANTI,0,0
+sneheshphilip,3,1,not in X corpus,not in X corpus,0,0
+indian_analyzer,3,1,news_media,NEUTRAL,3,0
+worshipvk,3,3,not in X corpus,not in X corpus,0,0
+adityarajkaul,3,3,news_media,NEUTRAL,3,0
+sidkevichaar,3,2,not in X corpus,not in X corpus,0,0
+ians_india,3,3,news_media,NEUTRAL,0,0
+rhlmdotin,3,1,not in X corpus,not in X corpus,0,0
+the_hindu,3,3,news_media,NEUTRAL,2,1
+ayush9050,3,1,not in X corpus,not in X corpus,0,0
+projectsach,2,2,not in X corpus,not in X corpus,2,0
+vishwaguru2026,2,1,citizen_other,NEUTRAL,0,2
+saffronsunanda,2,1,news_media,ANTI,0,2
+mehulucifer,2,1,not in X corpus,not in X corpus,0,1
+genz_of_india_,2,2,citizen_other,PRO,0,0
+meghupdates,2,2,news_media,ANTI,0,1
+livelawindia,2,2,news_media,NEUTRAL,1,0
+stormpost_,2,1,not in X corpus,not in X corpus,1,0
+internetfreedom,2,2,not in X corpus,not in X corpus,0,0
+pbhushan1,2,2,politician_party,PRO,1,0
+abdullah_0mar,2,2,citizen_other,NEUTRAL,2,0
+ashutoshranka,2,2,cjp_org,PRO,1,0
+bavazir_network,2,2,not in X corpus,not in X corpus,0,0
+amit_gujju,2,2,public_figure,ANTI,1,1
+skbasu248,1,1,not in X corpus,not in X corpus,0,0
+taj_india007,1,1,not in X corpus,not in X corpus,0,1
+ap9675868,1,1,not in X corpus,not in X corpus,0,0
+starboy2079,1,1,not in X corpus,not in X corpus,0,0
+sss,1,1,not in X corpus,not in X corpus,0,1
+sphavisha,1,1,citizen_other,PRO,1,0
+sougat18,1,1,not in X corpus,not in X corpus,1,0
+aranganathan72,1,1,not in X corpus,not in X corpus,1,0
+freee_birdiee,1,1,not in X corpus,not in X corpus,0,0
+anvaya4u,1,1,partisan_citizen,ANTI,0,0
+shourya_xd3639,1,1,not in X corpus,not in X corpus,0,0
+barandbench,1,1,news_media,ANTI,0,0
+satyamvatsin,1,1,not in X corpus,not in X corpus,1,0
+sardesairajdeep,1,1,citizen_other,NEUTRAL,1,0
+samajwadiparty,1,1,not in X corpus,not in X corpus,1,0
+benarasiyaa,1,1,news_media,NEUTRAL,0,0
+saffronkingg_,1,1,not in X corpus,not in X corpus,0,0
+saffronchargers,1,1,news_media,ANTI,0,0
+takagisan_uma,1,1,not in X corpus,not in X corpus,0,1
+thechronology__,1,1,not in X corpus,not in X corpus,1,0
+ghaziabadpolice,1,1,not in X corpus,not in X corpus,0,0
+vidyakrishnan,1,1,not in X corpus,not in X corpus,0,0
+yprajjwal,1,1,not in X corpus,not in X corpus,0,0
+yatowareadm,1,1,not in X corpus,not in X corpus,0,1
+absurdkurippu,1,1,not in X corpus,not in X corpus,0,0
+wionews,1,1,news_media,ANTI,0,0
+whispersinthec,1,1,not in X corpus,not in X corpus,0,1
+ajeetbharti,1,1,not in X corpus,not in X corpus,0,1
+alpakanya,1,1,citizen_other,ANTI,0,0
+vijaita,1,1,news_media,ANTI,0,1
+vhpdigital,1,1,not in X corpus,not in X corpus,0,0
+thedailypioneer,1,1,not in X corpus,not in X corpus,1,0
+us_stormwatch,1,1,not in X corpus,not in X corpus,1,0
+unsubtledesi,1,1,news_media,ANTI,1,0
+trulymonica,1,1,news_media,ANTI,1,0
+amitmalviya,1,1,not in X corpus,not in X corpus,0,0
+theredmike,1,1,citizen_other,NEUTRAL,0,1
+thereal_jassi,1,1,not in X corpus,not in X corpus,1,0
+thepunemirror,1,1,news_media,NEUTRAL,0,0
+themuslim786,1,1,not in X corpus,not in X corpus,0,1
+sachingupta,1,1,news_media,NEUTRAL,0,1
+bhupender_hrd,1,1,not in X corpus,not in X corpus,1,0
+bjp4goa,1,1,not in X corpus,not in X corpus,0,1
+indiantechguide,1,1,not in X corpus,not in X corpus,0,0
+docrgm_,1,1,citizen_other,PRO,0,0
+lalaxd,1,1,not in X corpus,not in X corpus,1,0
+kreatelymedia,1,1,not in X corpus,not in X corpus,0,0
+journomirror,1,1,citizen_other,NEUTRAL,1,0
+johnfifj,1,1,not in X corpus,not in X corpus,0,0
+iyervval,1,1,not in X corpus,not in X corpus,0,1
+e20party,1,1,not in X corpus,not in X corpus,0,0
+indiatoday,1,1,not in X corpus,not in X corpus,0,0
+erbmjha,1,1,public_figure,ANTI,0,1
+mahuamoitra,1,1,politician_party,PRO,0,0
+incindia,1,1,not in X corpus,not in X corpus,0,0
+imtiazmadmood,1,1,public_figure,NEUTRAL,0,0
+fltltanoopverma,1,1,not in X corpus,not in X corpus,0,0
+iabhi0717,1,1,not in X corpus,not in X corpus,0,0
+hunor74354,1,1,not in X corpus,not in X corpus,1,0
+hellelyngsvends,1,1,not in X corpus,not in X corpus,0,0
+gretathunberg,1,1,not in X corpus,not in X corpus,0,0
+govindprataps12,1,1,not in X corpus,not in X corpus,0,0
+macrophage40345,1,1,not in X corpus,not in X corpus,0,0
+mandeeppunia1,1,1,not in X corpus,not in X corpus,0,0
+redtuberress,1,1,not in X corpus,not in X corpus,0,0
+nwswpc,1,1,not in X corpus,not in X corpus,0,0
+bjplive,1,1,not in X corpus,not in X corpus,0,0
+brianjberletic,1,1,not in X corpus,not in X corpus,1,0
+prashantraj255,1,1,not in X corpus,not in X corpus,0,0
+prakazvijay_of,1,1,not in X corpus,not in X corpus,0,1
+prakashraaj,1,1,not in X corpus,not in X corpus,0,0
+cbseindia29,1,1,not in X corpus,not in X corpus,1,0
+pallavict,1,1,news_media,NEUTRAL,0,0
+officialdmrc,1,1,not in X corpus,not in X corpus,0,1
+notkanjusbaniya,1,1,not in X corpus,not in X corpus,0,0
+dev_fadnavis,1,1,not in X corpus,not in X corpus,0,0
+nindaturtles,1,1,partisan_citizen,ANTI,0,1
+navdeepdahiya55,1,1,not in X corpus,not in X corpus,1,0
+narendramodi,1,1,not in X corpus,not in X corpus,1,0
+mxtaverse,1,1,not in X corpus,not in X corpus,0,0
+cjp_for_india,1,1,cjp_org,PRO,0,0
+mnshap,1,1,news_media,NEUTRAL,0,0
+mmorolia86012,1,1,not in X corpus,not in X corpus,0,0
+cuberootofunity,1,1,not in X corpus,not in X corpus,0,1
+msisodia,1,1,politician_party,PRO,1,0

@@ -1,0 +1,7 @@
+platform,resolution,communities,communities_>=min_size,modularity_best,mean_pairwise_nmi
+x,0.6,18,11,0.5674,0.901
+x,1.0,20,13,0.6179,0.905
+x,1.4,25,16,0.6125,0.936
+reddit,0.6,44,43,0.6517,0.608
+reddit,1.0,73,73,0.66,0.728
+reddit,1.4,113,113,0.6579,0.782

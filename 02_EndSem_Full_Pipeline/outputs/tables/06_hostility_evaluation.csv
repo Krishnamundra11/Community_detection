@@ -1,0 +1,4 @@
+method,roc_auc,f1
+model only (CV),0.742,0.272
+lexicon only,,0.358
+model ∪ lexicon (used),,0.379

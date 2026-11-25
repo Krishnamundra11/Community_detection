@@ -1,0 +1,9 @@
+metric,value
+master_rows,1823
+master_columns,55
+network_eligible_rows,1823
+unique_authors,651
+missing_author_id,0
+unique_threads,1643
+missing_thread_id,0
+missing_timestamp,0

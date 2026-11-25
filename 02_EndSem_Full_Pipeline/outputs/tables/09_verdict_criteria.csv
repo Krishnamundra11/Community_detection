@@ -1,0 +1,13 @@
+criterion,met,evidence,platform
+Communities are structurally closed (cross-community edges far below the degree-preserving null),True,z = -47.49,x
+Camps are segregated by stance (stance E-I index below 0 / assortativity above 0.2),True,"E-I = -0.1282, assortativity = 0.2253",x
+Random walks stay inside a camp (RWC above 0.2),True,RWC = 0.3764,x
+Opposite camps do interact (at least 25 % of PRO/ANTI interactions cross sides),True,43% cross sides,x
+Cross-side contact is hostile (hostility at least twice the same-side rate),False,16.2% vs 9.3%,x
+Cross-side contact is one-way (reciprocity below 0.1),True,reciprocity = 0.0,x
+Communities are structurally closed (cross-community edges far below the degree-preserving null),True,z = -1018.78,reddit
+Camps are segregated by stance (stance E-I index below 0 / assortativity above 0.2),True,"E-I = -0.7474, assortativity = 0.5378",reddit
+Random walks stay inside a camp (RWC above 0.2),True,RWC = 0.2548,reddit
+Opposite camps do interact (at least 25 % of PRO/ANTI interactions cross sides),False,13% cross sides,reddit
+Cross-side contact is hostile (hostility at least twice the same-side rate),False,19.9% vs 18.0%,reddit
+Cross-side contact is one-way (reciprocity below 0.1),False,reciprocity = 0.233,reddit

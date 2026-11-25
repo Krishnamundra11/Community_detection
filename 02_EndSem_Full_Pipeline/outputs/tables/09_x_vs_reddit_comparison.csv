@@ -1,0 +1,23 @@
+measure,x,reddit
+items,1727,178398
+authors,651,50262
+nodes,466,43828
+edges,600,107425
+density,0.002769,5.6e-05
+reciprocity,0.0367,0.3151
+largest_wcc_share,0.7339,0.9984
+communities (major),21 (14),73 (15)
+modularity,0.618,0.66
+partition stability (NMI),0.905,0.728
+cross-community edge share,0.271,0.4201
+z vs degree-preserving null,-47.49,-1018.78
+"E-I index (stance, PRO vs ANTI)",-0.1282,-0.7474
+stance assortativity,0.2253,0.5378
+RWC (PRO vs ANTI),0.3764,0.2548
+items PRO / NEU / ANTI %,21 / 45 / 35,34 / 49 / 18
+users PRO / NEU / ANTI %,20 / 41 / 40,41 / 44 / 15
+share of PRO-ANTI interactions that cross sides,0.429,0.126
+hostile % same side,9.3,18.0
+hostile % opposite sides,16.2,19.9
+reciprocity opposite sides,0.0,0.233
+bridge users,31,3077

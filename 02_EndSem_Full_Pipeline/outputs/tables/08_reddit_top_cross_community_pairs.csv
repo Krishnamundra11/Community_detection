@@ -1,0 +1,16 @@
+from_community,to_community,weight,from_label,to_label
+3,2,154.0,Mixed / contested · government bjp,Pro-protest · government bjp
+3,10,133.0,Mixed / contested · government bjp,Mixed / contested · police repression
+3,1,123.0,Mixed / contested · government bjp,Pro-protest · government bjp
+3,7,121.0,Mixed / contested · government bjp,Mixed / contested · students youth
+5,2,114.0,Mixed / contested · police repression,Pro-protest · government bjp
+2,5,104.0,Pro-protest · government bjp,Mixed / contested · police repression
+7,2,103.0,Mixed / contested · students youth,Pro-protest · government bjp
+10,2,103.0,Mixed / contested · police repression,Pro-protest · government bjp
+1,5,103.0,Pro-protest · government bjp,Mixed / contested · police repression
+3,4,96.0,Mixed / contested · government bjp,Mixed / contested · students youth
+1,2,89.0,Pro-protest · government bjp,Pro-protest · government bjp
+1,4,86.0,Pro-protest · government bjp,Mixed / contested · students youth
+7,3,85.0,Mixed / contested · students youth,Mixed / contested · government bjp
+1,3,84.0,Pro-protest · government bjp,Mixed / contested · government bjp
+10,3,84.0,Mixed / contested · police repression,Mixed / contested · government bjp

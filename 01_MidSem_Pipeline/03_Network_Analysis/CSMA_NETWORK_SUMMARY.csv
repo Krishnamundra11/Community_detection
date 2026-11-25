@@ -1,0 +1,9 @@
+metric,value
+nodes,466.0
+directed_edges,600.0
+density,0.0027689325764917623
+weakly_connected_components,50.0
+strongly_connected_components,455.0
+largest_WCC_nodes,342.0
+largest_WCC_percent,73.39055793991416
+reciprocity,0.03666666666666667

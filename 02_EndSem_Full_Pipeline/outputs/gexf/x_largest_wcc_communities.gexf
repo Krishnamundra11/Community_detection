@@ -1,0 +1,5377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-10-20">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="4" title="types" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="account_type" type="string" />
+      <attribute id="1" title="n_posts" type="long" />
+      <attribute id="2" title="followers" type="long" />
+      <attribute id="3" title="community" type="string" />
+    </attributes>
+    <nodes>
+      <node id="_sabanaqvi" label="_sabanaqvi">
+        <attvalues>
+          <attvalue for="0" value="partisan_citizen" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="585186" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="abhijeet_dipke" label="abhijeet_dipke">
+        <attvalues>
+          <attvalue for="0" value="cjp_org" />
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="531915" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="cjp_2029" label="cjp_2029">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="dipankar_cpiml" label="dipankar_cpiml">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="gitanjaliangmo" label="gitanjaliangmo">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="neha_aisa" label="neha_aisa">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="pti_news" label="pti_news">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="4638119" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="sauravdassss" label="sauravdassss">
+        <attvalues>
+          <attvalue for="0" value="cjp_org" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="208247" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="_yogendrayadav" label="_yogendrayadav">
+        <attvalues>
+          <attvalue for="0" value="politician_party" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1650969" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="cockroachisback" label="cockroachisback">
+        <attvalues>
+          <attvalue for="0" value="cjp_org" />
+          <attvalue for="1" value="37" />
+          <attvalue for="2" value="405280" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="aaamedialive" label="aaamedialive">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3941" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="ajitanjum" label="ajitanjum">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1982247" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="wangchuk66" label="wangchuk66">
+        <attvalues>
+          <attvalue for="0" value="politician_party" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="687430" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="aashnagold" label="aashnagold">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="10751" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="arvindkejriwal" label="arvindkejriwal">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="officeofut" label="officeofut">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="abshingate" label="abshingate">
+        <attvalues>
+          <attvalue for="0" value="public_figure" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="61" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="incindia" label="incindia">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="rahulgandhi" label="rahulgandhi">
+        <attvalues>
+          <attvalue for="0" value="politician_party" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="28617870" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="adityagauraviyc" label="adityagauraviyc">
+        <attvalues>
+          <attvalue for="0" value="public_figure" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4577" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="iarpitspeaks" label="iarpitspeaks">
+        <attvalues>
+          <attvalue for="0" value="public_figure" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="133159" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="affanviews" label="affanviews">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="324" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="grok" label="grok">
+        <attvalues>
+          <attvalue for="0" value="ai_bot" />
+          <attvalue for="1" value="19" />
+          <attvalue for="2" value="9119388" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="aisa_official_" label="aisa_official_">
+        <attvalues>
+          <attvalue for="0" value="politician_party" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="13663" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="ashutoshranka" label="ashutoshranka">
+        <attvalues>
+          <attvalue for="0" value="cjp_org" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="79065" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="akash100karkala" label="akash100karkala">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1174" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="akashuchani08" label="akashuchani08">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="6368" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="amarujalanews" label="amarujalanews">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2210645" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="cjp_for_india" label="cjp_for_india">
+        <attvalues>
+          <attvalue for="0" value="cjp_org" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="477130" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="ambedkarajay1" label="ambedkarajay1">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="51022" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="amit_gujju" label="amit_gujju">
+        <attvalues>
+          <attvalue for="0" value="public_figure" />
+          <attvalue for="1" value="26" />
+          <attvalue for="2" value="134760" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="delhipolice" label="delhipolice">
+        <attvalues>
+          <attvalue for="0" value="police_gov" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1085471" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="hmoindia" label="hmoindia">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="amockx2022" label="amockx2022">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="109440" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="ians_india" label="ians_india">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="183548" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="an0rexik" label="an0rexik">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="8901" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="ani_digital" label="ani_digital">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="795887" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="ani" label="ani">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="9479932" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="ankursingh" label="ankursingh">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="161480" />
+          <attvalue for="3" value="15" />
+        </attvalues>
+      </node>
+      <node id="dainikbhaskar" label="dainikbhaskar">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2732659" />
+          <attvalue for="3" value="15" />
+        </attvalues>
+      </node>
+      <node id="sonal_mk" label="sonal_mk">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="15" />
+        </attvalues>
+      </node>
+      <node id="anvaya4u" label="anvaya4u">
+        <attvalues>
+          <attvalue for="0" value="partisan_citizen" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="10125" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="arfakhanums" label="arfakhanums">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1225" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="the_hindu" label="the_hindu">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="43" />
+          <attvalue for="2" value="8410472" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="aryakthinks" label="aryakthinks">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="9827" />
+          <attvalue for="3" value="16" />
+        </attvalues>
+      </node>
+      <node id="desh_bhakati" label="desh_bhakati">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="9526" />
+          <attvalue for="3" value="16" />
+        </attvalues>
+      </node>
+      <node id="newsalgebraind" label="newsalgebraind">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="27" />
+          <attvalue for="2" value="809884" />
+          <attvalue for="3" value="16" />
+        </attvalues>
+      </node>
+      <node id="assamtribuneoff" label="assamtribuneoff">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="20248" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="dpradhanbjp" label="dpradhanbjp">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="ayushihihaha" label="ayushihihaha">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="10913" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="barandbench" label="barandbench">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="689833" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="battakashmiri" label="battakashmiri">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="246070" />
+          <attvalue for="3" value="18" />
+        </attvalues>
+      </node>
+      <node id="khanumarfa" label="khanumarfa">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="18" />
+        </attvalues>
+      </node>
+      <node id="bindaswith" label="bindaswith">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="1673" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="bstvlive" label="bstvlive">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1400954" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="adminlko" label="adminlko">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="cmofficeup" label="cmofficeup">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="lkopolice" label="lkopolice">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="upgovt" label="upgovt">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="uppolice" label="uppolice">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="captmb0107" label="captmb0107">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3582" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="amitshahoffice" label="amitshahoffice">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="chandra4bharat" label="chandra4bharat">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="10582" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="dcpnewdelhi" label="dcpnewdelhi">
+        <attvalues>
+          <attvalue for="0" value="police_gov" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="202714" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="chetananjan" label="chetananjan">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="326" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="chidambaram_07" label="chidambaram_07">
+        <attvalues>
+          <attvalue for="0" value="public_figure" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="20" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="prakashraaj" label="prakashraaj">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="cjp_is_back" label="cjp_is_back">
+        <attvalues>
+          <attvalue for="0" value="cjp_org" />
+          <attvalue for="1" value="31" />
+          <attvalue for="2" value="8166" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="cjpcomms" label="cjpcomms">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="16025" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="timesofindia" label="timesofindia">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="13922400" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="cockroacharmyin" label="cockroacharmyin">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="11121" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="agsawant" label="agsawant">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="pushpendra_mp_" label="pushpendra_mp_">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="uddhavthackeray" label="uddhavthackeray">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="vijetadahiya" label="vijetadahiya">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="cockroch4you" label="cockroch4you">
+        <attvalues>
+          <attvalue for="0" value="politician_party" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="10472" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="thewire_in" label="thewire_in">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1634288" />
+          <attvalue for="3" value="19" />
+        </attvalues>
+      </node>
+      <node id="customheritage4" label="customheritage4">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1592" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="dank_tiger" label="dank_tiger">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="124" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="dchaurasia2312" label="dchaurasia2312">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1320453" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="aamaadmiparty" label="aamaadmiparty">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="amitshah" label="amitshah">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="annahazaresays" label="annahazaresays">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="bjp4india" label="bjp4india">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="narendramodi" label="narendramodi">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="yogrishiramdev" label="yogrishiramdev">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="cmodelhi" label="cmodelhi">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="ltgovdelhi" label="ltgovdelhi">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="pmoindia" label="pmoindia">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="dearthofsid" label="dearthofsid">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="78838" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="newsarenaindia" label="newsarenaindia">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="276640" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="dekoderai" label="dekoderai">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="56332" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="crimebranchdp" label="crimebranchdp">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="dcp_outernorth" label="dcp_outernorth">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="dcpsouthdelhi" label="dcpsouthdelhi">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="themornstandard" label="themornstandard">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="tribuneindia" label="tribuneindia">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="dhruv_rathee" label="dhruv_rathee">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3324515" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="dndwivedi13" label="dndwivedi13">
+        <attvalues>
+          <attvalue for="0" value="public_figure" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4456" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="factcheckpulse" label="factcheckpulse">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="30" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="drrajneesh15" label="drrajneesh15">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="hcp_2026" label="hcp_2026">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="60" />
+          <attvalue for="2" value="34134" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="flash101808" label="flash101808">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1160" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="gac_insights" label="gac_insights">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="622" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="gaurangbhardwa1" label="gaurangbhardwa1">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="216463" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="genz_of_india_" label="genz_of_india_">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="21521" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="sohitmishra99" label="sohitmishra99">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="200705" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="an552785261" label="an552785261">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="basicshikcha_4u" label="basicshikcha_4u">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="chandni0_0" label="chandni0_0">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="iampatelajeet" label="iampatelajeet">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="iamsyfshahid" label="iamsyfshahid">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3289" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="its_mannat92" label="its_mannat92">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="meem_se_majid" label="meem_se_majid">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="omieth" label="omieth">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1540" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="phdwaala" label="phdwaala">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="rakesht17343734" label="rakesht17343734">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="shivpuj68421623" label="shivpuj68421623">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2018" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="srivardhangnt" label="srivardhangnt">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="guwahatiplus" label="guwahatiplus">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="142831" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="eduminofindia" label="eduminofindia">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="mygovindia" label="mygovindia">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="abhinaymaths" label="abhinaymaths">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="elvishyadav" label="elvishyadav">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="995488" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="hebbarkeshava63" label="hebbarkeshava63">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1960" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="newsagnika" label="newsagnika">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3316" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="hello_dasu" label="hello_dasu">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="5085" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="hemanibhandari" label="hemanibhandari">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="9475" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="henrysingh_x" label="henrysingh_x">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="1222" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="hjp2029_2036" label="hjp2029_2036">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="9465" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="opindia_com" label="opindia_com">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="745750" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="hudconntroversy" label="hudconntroversy">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1094" />
+          <attvalue for="3" value="18" />
+        </attvalues>
+      </node>
+      <node id="i__m_vengeance" label="i__m_vengeance">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2006" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="iamsdr01" label="iamsdr01">
+        <attvalues>
+          <attvalue for="0" value="politician_party" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="9289" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="iamutpalkhot" label="iamutpalkhot">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="10538" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="cockroach4india" label="cockroach4india">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="newsleaderlive" label="newsleaderlive">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2600" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="iatulkrishan1" label="iatulkrishan1">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="119223" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="cpdelhi" label="cpdelhi">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="incognito_qfs" label="incognito_qfs">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="143855" />
+          <attvalue for="3" value="18" />
+        </attvalues>
+      </node>
+      <node id="indic_god" label="indic_god">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="23032" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="isatyam100" label="isatyam100">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="25834" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="ishu2015" label="ishu2015">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2495" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="itz__daniyal80" label="itz__daniyal80">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2384" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="jeelanikash" label="jeelanikash">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="8174" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="jgopikrishnan70" label="jgopikrishnan70">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="92065" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="indian_analyzer" label="indian_analyzer">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="147581" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="jod_insane" label="jod_insane">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="21581" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="johnbrittas" label="johnbrittas">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="36464" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="journomirror" label="journomirror">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="72306" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="asadowaisi" label="asadowaisi">
+        <attvalues>
+          <attvalue for="0" value="politician_party" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3250786" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="khandelw13sagar" label="khandelw13sagar">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="25039" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </node>
+      <node id="peektv_in" label="peektv_in">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="35" />
+          <attvalue for="2" value="36008" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </node>
+      <node id="kiranparashar21" label="kiranparashar21">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3497" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="komal_indian" label="komal_indian">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="45974" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kool96008" label="kool96008">
+        <attvalues>
+          <attvalue for="0" value="partisan_citizen" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="29" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="dgpup" label="dgpup">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="kumaarsaagar" label="kumaarsaagar">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="221010" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="kush_voice" label="kush_voice">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="169132" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="livelawindia" label="livelawindia">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="844848" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="lykajha" label="lykajha">
+        <attvalues>
+          <attvalue for="0" value="partisan_citizen" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3280" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="meghupdates" label="meghupdates">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="31" />
+          <attvalue for="2" value="656051" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="madhukishwar" label="madhukishwar">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1880247" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="mahuamoitra" label="mahuamoitra">
+        <attvalues>
+          <attvalue for="0" value="politician_party" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="957871" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="maktoobmedia" label="maktoobmedia">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="59292" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="kassuism" label="kassuism">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="mango_aadami" label="mango_aadami">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2877" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="mdhafiz59473117" label="mdhafiz59473117">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="45190" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="mnshap" label="mnshap">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="191348" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="imavdheshkumar" label="imavdheshkumar">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="mrsandeepphogat" label="mrsandeepphogat">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="25575" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="msisodia" label="msisodia">
+        <attvalues>
+          <attvalue for="0" value="politician_party" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="3264711" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="mujmash" label="mujmash">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="167392" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="mumbaichadon" label="mumbaichadon">
+        <attvalues>
+          <attvalue for="0" value="public_figure" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="233275" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="mystic_soul25" label="mystic_soul25">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="9802" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="mysticalbalaa" label="mysticalbalaa">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="15" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="byomkesbakshy" label="byomkesbakshy">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="nevilleskynews" label="nevilleskynews">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="skynews" label="skynews">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="9119673" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="ndtv" label="ndtv">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="17349317" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="cjp" label="cjp">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="shreyag9401" label="shreyag9401">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="newindianxpress" label="newindianxpress">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="486271" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="news24tvchannel" label="news24tvchannel">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="35" />
+          <attvalue for="2" value="2035765" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="kapilsibal" label="kapilsibal">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="ronak_khatrii" label="ronak_khatrii">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="newslaundry" label="newslaundry">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="661808" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="akankhyaak72623" label="akankhyaak72623">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="anmolpritamnd" label="anmolpritamnd">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="samarthgrover87" label="samarthgrover87">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="nileshhw" label="nileshhw">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="4240" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="atishiaap" label="atishiaap">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="oldschoolmonk" label="oldschoolmonk">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="100738" />
+          <attvalue for="3" value="15" />
+        </attvalues>
+      </node>
+      <node id="onrecordindia" label="onrecordindia">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1616" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="anurragmishra" label="anurragmishra">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="keshavmalan93" label="keshavmalan93">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="rahulroushan" label="rahulroushan">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="529477" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="ritikachandola" label="ritikachandola">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="40389" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="opindia_tv" label="opindia_tv">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="6450" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="panditramjoshi" label="panditramjoshi">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3229" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="priyanshi50" label="priyanshi50">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </node>
+      <node id="pradeepmaikhur3" label="pradeepmaikhur3">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="24394" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="pranavpradhi1" label="pranavpradhi1">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2791" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="pratiba_sk" label="pratiba_sk">
+        <attvalues>
+          <attvalue for="0" value="politician_party" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="10897" />
+          <attvalue for="3" value="16" />
+        </attvalues>
+      </node>
+      <node id="pride_sanatan" label="pride_sanatan">
+        <attvalues>
+          <attvalue for="0" value="partisan_citizen" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="13992" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="komalofficial10" label="komalofficial10">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="publicnewsx" label="publicnewsx">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="4017" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="punditto" label="punditto">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="79" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="jaipurdialogues" label="jaipurdialogues">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="524406" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="rahultavar_" label="rahultavar_">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="5529" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="rajatjain" label="rajatjain">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="5790" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="rajeshanand3263" label="rajeshanand3263">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="25" />
+          <attvalue for="3" value="16" />
+        </attvalues>
+      </node>
+      <node id="ramanj59346817" label="ramanj59346817">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="307" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="ranaayyub" label="ranaayyub">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="1622917" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="whattalawyer" label="whattalawyer">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="28679" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="rationalbahujan" label="rationalbahujan">
+        <attvalues>
+          <attvalue for="0" value="public_figure" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4489" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="rautsanjay61" label="rautsanjay61">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1320879" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="ravish_journo" label="ravish_journo">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="4337467" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="ravisharmatalks" label="ravisharmatalks">
+        <attvalues>
+          <attvalue for="0" value="public_figure" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="5656" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="rdxthinksthat" label="rdxthinksthat">
+        <attvalues>
+          <attvalue for="0" value="public_figure" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="49398" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="aajtak" label="aajtak">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="cnnnews18" label="cnnnews18">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="4618207" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="ddnewslive" label="ddnewslive">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="dtptraffic" label="dtptraffic">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="indiatoday" label="indiatoday">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="indiatvnews" label="indiatvnews">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="republic" label="republic">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="republic_bharat" label="republic_bharat">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="timesnow" label="timesnow">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="9839392" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="tnnavbharat" label="tnnavbharat">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="185588" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="tv9bharatvarsh" label="tv9bharatvarsh">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="riarevealed" label="riarevealed">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="88939" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="aitcofficial" label="aitcofficial">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="arivalayam" label="arivalayam">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="derekobrienmp" label="derekobrienmp">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="kharge" label="kharge">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="laluprasadrjd" label="laluprasadrjd">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="mamataofficial" label="mamataofficial">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="mkstalin" label="mkstalin">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="priyankagandhi" label="priyankagandhi">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="rjdforindia" label="rjdforindia">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="samajwadiparty" label="samajwadiparty">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="shivsenaubt_" label="shivsenaubt_">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="udhavthackeray" label="udhavthackeray">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="yadavakhilesh" label="yadavakhilesh">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="ridhu417sharma" label="ridhu417sharma">
+        <attvalues>
+          <attvalue for="0" value="partisan_citizen" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="42966" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="bjp4up" label="bjp4up">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="bulandshahrpol" label="bulandshahrpol">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="rishi_suri" label="rishi_suri">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="19555" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="ritikgupta1999" label="ritikgupta1999">
+        <attvalues>
+          <attvalue for="0" value="public_figure" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="10392" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="rohitkoul_23" label="rohitkoul_23">
+        <attvalues>
+          <attvalue for="0" value="partisan_citizen" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="749" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="sanket" label="sanket">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="307319" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="rtabassum64473" label="rtabassum64473">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="49" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="vishwaguru2026" label="vishwaguru2026">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="14988" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="s_insilence" label="s_insilence">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="11768" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="sadhamaanus" label="sadhamaanus">
+        <attvalues>
+          <attvalue for="0" value="public_figure" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="6460" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="sagarikaghose" label="sagarikaghose">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="3865989" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="saket71" label="saket71">
+        <attvalues>
+          <attvalue for="0" value="public_figure" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="46144" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="saketgokhale" label="saketgokhale">
+        <attvalues>
+          <attvalue for="0" value="politician_party" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="287334" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="sandeepblore" label="sandeepblore">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="710" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="nta_exams" label="nta_exams">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="sanjeev_atrey" label="sanjeev_atrey">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="295" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="sanjoychakra" label="sanjoychakra">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="55955" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="sanvisharm49500" label="sanvisharm49500">
+        <attvalues>
+          <attvalue for="0" value="public_figure" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4939" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="sardesairajdeep" label="sardesairajdeep">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="8450328" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="saurabh_unmute" label="saurabh_unmute">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="106759" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="theredmike" label="theredmike">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="57366" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="drjitendrasingh" label="drjitendrasingh">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="jpnadda" label="jpnadda">
+        <attvalues>
+          <attvalue for="0" value="police_gov" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3850033" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="sharma_vanni12" label="sharma_vanni12">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1330" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="shashilearns" label="shashilearns">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="26971" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="shashisimply" label="shashisimply">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="3305" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="shatrugansinha" label="shatrugansinha">
+        <attvalues>
+          <attvalue for="0" value="politician_party" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="727947" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="sanjayazadsin" label="sanjayazadsin">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="ssrajputinc" label="ssrajputinc">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="yashwantsinha" label="yashwantsinha">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="shonabubai" label="shonabubai">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="93" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="cjpparti" label="cjpparti">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="singhpramod2784" label="singhpramod2784">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="33635" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="vijaita" label="vijaita">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="174652" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="smita_sharma" label="smita_sharma">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="84466" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="soulefacts" label="soulefacts">
+        <attvalues>
+          <attvalue for="0" value="partisan_citizen" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="77002" />
+          <attvalue for="3" value="15" />
+        </attvalues>
+      </node>
+      <node id="sphavisha" label="sphavisha">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="8650" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="sanjayazadsln" label="sanjayazadsln">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="sudarshannewsne" label="sudarshannewsne">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4183" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="suranabasant" label="suranabasant">
+        <attvalues>
+          <attvalue for="0" value="partisan_citizen" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="555" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="tejyadav14" label="tejyadav14">
+        <attvalues>
+          <attvalue for="0" value="politician_party" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1763234" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="samrat4bjp" label="samrat4bjp">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="aaratrika_11" label="aaratrika_11">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="aroondeep" label="aroondeep">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="ikasnik" label="ikasnik">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="jainsudhakara" label="jainsudhakara">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="rvmoorthyhindu" label="rvmoorthyhindu">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="shashiskashyap" label="shashiskashyap">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="sinha_soumyadip" label="sinha_soumyadip">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="sushil_verma9" label="sushil_verma9">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </node>
+      <node id="the_moment2746" label="the_moment2746">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="198" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="thelallantop" label="thelallantop">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="1009956" />
+          <attvalue for="3" value="17" />
+        </attvalues>
+      </node>
+      <node id="hemraj____" label="hemraj____">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="17" />
+        </attvalues>
+      </node>
+      <node id="nehadhiman1004" label="nehadhiman1004">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="17" />
+        </attvalues>
+      </node>
+      <node id="rajatpandeyjf" label="rajatpandeyjf">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="17" />
+        </attvalues>
+      </node>
+      <node id="roohanibhatia" label="roohanibhatia">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="17" />
+        </attvalues>
+      </node>
+      <node id="themooknayakeng" label="themooknayakeng">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="12952" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="aisfofficial" label="aisfofficial">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="gitasunilpillai" label="gitasunilpillai">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="thepeeinghuman" label="thepeeinghuman">
+        <attvalues>
+          <attvalue for="0" value="politician_party" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="304912" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="thesinceredude" label="thesinceredude">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="14371" />
+          <attvalue for="3" value="21" />
+        </attvalues>
+      </node>
+      <node id="nsui" label="nsui">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="21" />
+        </attvalues>
+      </node>
+      <node id="vinodjakharin" label="vinodjakharin">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="21" />
+        </attvalues>
+      </node>
+      <node id="atulhowale18" label="atulhowale18">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="19" />
+        </attvalues>
+      </node>
+      <node id="sravastidasgup2" label="sravastidasgup2">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="19" />
+        </attvalues>
+      </node>
+      <node id="thirdseat_org" label="thirdseat_org">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="17" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="drsukantabjp" label="drsukantabjp">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="jayantrld" label="jayantrld">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="anchoramitaw" label="anchoramitaw">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="pencilpatrakar" label="pencilpatrakar">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="sabyasachi_13" label="sabyasachi_13">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="shivamsharma_tn" label="shivamsharma_tn">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="tonytwitching" label="tonytwitching">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="8085" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="tweets_amit" label="tweets_amit">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4466" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="tweetsoflamaa__" label="tweetsoflamaa__">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="10130" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="ultrapromax100" label="ultrapromax100">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="1149" />
+          <attvalue for="3" value="14" />
+        </attvalues>
+      </node>
+      <node id="bbc" label="bbc">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="14" />
+        </attvalues>
+      </node>
+      <node id="bbcbreaking" label="bbcbreaking">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="14" />
+        </attvalues>
+      </node>
+      <node id="cnn" label="cnn">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="14" />
+        </attvalues>
+      </node>
+      <node id="firstpost" label="firstpost">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="14" />
+        </attvalues>
+      </node>
+      <node id="telegraph" label="telegraph">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="14" />
+        </attvalues>
+      </node>
+      <node id="un" label="un">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="14" />
+        </attvalues>
+      </node>
+      <node id="unhumanrights" label="unhumanrights">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="14" />
+        </attvalues>
+      </node>
+      <node id="uni_photos" label="uni_photos">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="782" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="unsubtledesi" label="unsubtledesi">
+        <attvalues>
+          <attvalue for="0" value="news_media" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="776580" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="urstrulyshubh" label="urstrulyshubh">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="84" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="varunkrrana" label="varunkrrana">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="94395" />
+          <attvalue for="3" value="15" />
+        </attvalues>
+      </node>
+      <node id="vedantasays" label="vedantasays">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="51" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="vipul_reports" label="vipul_reports">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="5616" />
+          <attvalue for="3" value="19" />
+        </attvalues>
+      </node>
+      <node id="viraja_r69189" label="viraja_r69189">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1783" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="vishalkash1975" label="vishalkash1975">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="11" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="vyasa1968" label="vyasa1968">
+        <attvalues>
+          <attvalue for="0" value="partisan_citizen" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="16688" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="xbharat" label="xbharat">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="11883" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="ziddinaagrik" label="ziddinaagrik">
+        <attvalues>
+          <attvalue for="0" value="citizen_other" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="2153" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="zoo_bear" label="zoo_bear">
+        <attvalues>
+          <attvalue for="0" value="public_figure" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="1608235" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="gautam_adani" label="gautam_adani">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="_sabanaqvi" target="abhijeet_dipke" id="0" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="_sabanaqvi" target="cjp_2029" id="1" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="_sabanaqvi" target="dipankar_cpiml" id="2" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="_sabanaqvi" target="gitanjaliangmo" id="3" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="_sabanaqvi" target="neha_aisa" id="4" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="_sabanaqvi" target="pti_news" id="5" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="_sabanaqvi" target="sauravdassss" id="6" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="abhijeet_dipke" target="cockroachisback" id="7" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="abhijeet_dipke" target="officeofut" id="8" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="pti_news" target="ashutoshranka" id="9" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="pti_news" target="cjpcomms" id="10" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="pti_news" target="cockroachisback" id="11" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="pti_news" target="komalofficial10" id="12" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="pti_news" target="sauravdassss" id="13" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="pti_news" target="vijetadahiya" id="14" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sauravdassss" target="abhijeet_dipke" id="15" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sauravdassss" target="ani" id="16" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="sauravdassss" target="cjp_2029" id="17" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sauravdassss" target="cockroachisback" id="18" weight="9.0">
+        <attvalues>
+          <attvalue for="4" value="mention|quote" />
+        </attvalues>
+      </edge>
+      <edge source="sauravdassss" target="cpdelhi" id="19" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sauravdassss" target="delhipolice" id="20" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sauravdassss" target="drjitendrasingh" id="21" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sauravdassss" target="dtptraffic" id="22" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="sauravdassss" target="jpnadda" id="23" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sauravdassss" target="wangchuk66" id="24" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="_yogendrayadav" target="cockroachisback" id="25" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="cockroachisback" target="abhijeet_dipke" id="26" weight="5.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="cockroachisback" target="agsawant" id="27" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="cockroachisback" target="ashutoshranka" id="28" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="cockroachisback" target="cjpcomms" id="29" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="cockroachisback" target="pushpendra_mp_" id="30" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="cockroachisback" target="sauravdassss" id="31" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="cockroachisback" target="uddhavthackeray" id="32" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="cockroachisback" target="vijetadahiya" id="33" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="aaamedialive" target="abhijeet_dipke" id="34" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="aaamedialive" target="ajitanjum" id="35" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="aaamedialive" target="cockroachisback" id="36" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="aaamedialive" target="wangchuk66" id="37" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ajitanjum" target="abhijeet_dipke" id="38" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ajitanjum" target="ashutoshranka" id="39" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ajitanjum" target="sauravdassss" id="40" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="aashnagold" target="arvindkejriwal" id="44" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="abshingate" target="incindia" id="46" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="abshingate" target="rahulgandhi" id="47" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="adityagauraviyc" target="iarpitspeaks" id="48" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="iarpitspeaks" target="abhijeet_dipke" id="49" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="affanviews" target="grok" id="50" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="affanviews" id="51" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="an0rexik" id="52" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="an552785261" id="53" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="basicshikcha_4u" id="54" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="chandni0_0" id="55" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="chetananjan" id="56" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="chidambaram_07" id="57" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="factcheckpulse" id="58" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="iampatelajeet" id="59" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="iamsyfshahid" id="60" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="its_mannat92" id="61" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="meem_se_majid" id="62" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="omieth" id="63" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="phdwaala" id="64" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="rakesht17343734" id="65" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="shivpuj68421623" id="66" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="grok" target="srivardhangnt" id="67" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="aisa_official_" target="pti_news" id="68" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="akash100karkala" target="cockroachisback" id="69" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="akashuchani08" target="cockroachisback" id="70" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="amarujalanews" target="abhijeet_dipke" id="72" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="amarujalanews" target="cjp_for_india" id="73" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="amarujalanews" target="cockroachisback" id="74" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="cjp_for_india" target="prakashraaj" id="75" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ambedkarajay1" target="abhijeet_dipke" id="76" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ambedkarajay1" target="cockroachisback" id="77" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="amit_gujju" target="delhipolice" id="78" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="amit_gujju" target="hmoindia" id="79" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="delhipolice" target="crimebranchdp" id="80" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="delhipolice" target="dcp_outernorth" id="81" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="delhipolice" target="dcpsouthdelhi" id="82" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="delhipolice" target="ltgovdelhi" id="83" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="delhipolice" target="themornstandard" id="84" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="delhipolice" target="timesofindia" id="85" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="delhipolice" target="tribuneindia" id="86" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="amockx2022" target="ians_india" id="87" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="an0rexik" target="abhijeet_dipke" id="88" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="an0rexik" target="grok" id="89" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ani_digital" target="ani" id="92" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ankursingh" target="dainikbhaskar" id="93" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ankursingh" target="sonal_mk" id="94" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="anvaya4u" target="abhijeet_dipke" id="95" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="arfakhanums" target="the_hindu" id="97" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="the_hindu" target="aaratrika_11" id="98" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="the_hindu" target="aroondeep" id="99" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="the_hindu" target="ikasnik" id="100" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="the_hindu" target="jainsudhakara" id="101" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="the_hindu" target="rvmoorthyhindu" id="102" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="the_hindu" target="shashiskashyap" id="103" weight="4.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="the_hindu" target="sinha_soumyadip" id="104" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="the_hindu" target="sushil_verma9" id="105" weight="6.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="the_hindu" target="vijaita" id="106" weight="4.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="aryakthinks" target="abhijeet_dipke" id="107" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="aryakthinks" target="amit_gujju" id="108" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="aryakthinks" target="cockroachisback" id="109" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="aryakthinks" target="desh_bhakati" id="110" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="aryakthinks" target="newsalgebraind" id="111" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="assamtribuneoff" target="cockroachisback" id="112" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="assamtribuneoff" target="dpradhanbjp" id="113" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ayushihihaha" target="cockroachisback" id="114" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="barandbench" target="abhijeet_dipke" id="115" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="barandbench" target="cockroachisback" id="116" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="barandbench" target="gitanjaliangmo" id="117" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="battakashmiri" target="khanumarfa" id="118" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="bindaswith" target="abhijeet_dipke" id="133" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="bindaswith" target="cjp_for_india" id="134" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="bstvlive" target="abhijeet_dipke" id="136" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="bstvlive" target="adminlko" id="137" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="bstvlive" target="cjp_for_india" id="138" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="bstvlive" target="cmofficeup" id="139" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="bstvlive" target="lkopolice" id="140" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="bstvlive" target="upgovt" id="141" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="bstvlive" target="uppolice" id="142" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="captmb0107" target="amitshahoffice" id="143" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="captmb0107" target="delhipolice" id="144" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="chandra4bharat" target="dcpnewdelhi" id="145" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="dcpnewdelhi" target="abhijeet_dipke" id="146" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention|reply" />
+        </attvalues>
+      </edge>
+      <edge source="dcpnewdelhi" target="cjp_for_india" id="147" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="dcpnewdelhi" target="cmodelhi" id="148" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="dcpnewdelhi" target="delhipolice" id="149" weight="4.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="dcpnewdelhi" target="hmoindia" id="150" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="dcpnewdelhi" target="ltgovdelhi" id="151" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="dcpnewdelhi" target="pmoindia" id="152" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="chetananjan" target="abhijeet_dipke" id="154" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="chetananjan" target="grok" id="155" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="chidambaram_07" target="cockroachisback" id="156" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="chidambaram_07" target="grok" id="157" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="chidambaram_07" target="wangchuk66" id="158" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="cjp_is_back" target="abhijeet_dipke" id="159" weight="12.0">
+        <attvalues>
+          <attvalue for="4" value="mention|reply" />
+        </attvalues>
+      </edge>
+      <edge source="cjp_is_back" target="cockroachisback" id="160" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention|reply" />
+        </attvalues>
+      </edge>
+      <edge source="cjp_is_back" target="dainikbhaskar" id="161" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="cjp_is_back" target="wangchuk66" id="162" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="cjpcomms" target="timesofindia" id="163" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="cockroacharmyin" target="abhijeet_dipke" id="164" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="cockroch4you" target="abhijeet_dipke" id="165" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="cockroch4you" target="thewire_in" id="166" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thewire_in" target="abhijeet_dipke" id="167" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thewire_in" target="atulhowale18" id="168" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thewire_in" target="cockroachisback" id="169" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thewire_in" target="sauravdassss" id="170" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thewire_in" target="sravastidasgup2" id="171" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="customheritage4" target="dpradhanbjp" id="172" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="dank_tiger" target="cockroachisback" id="173" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="dchaurasia2312" target="aamaadmiparty" id="174" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="dchaurasia2312" target="amitshah" id="175" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="dchaurasia2312" target="annahazaresays" id="176" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="dchaurasia2312" target="bjp4india" id="177" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="dchaurasia2312" target="delhipolice" id="178" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="dchaurasia2312" target="incindia" id="179" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="dchaurasia2312" target="narendramodi" id="180" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="dchaurasia2312" target="wangchuk66" id="181" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="dchaurasia2312" target="yogrishiramdev" id="182" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="dearthofsid" target="newsarenaindia" id="183" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="dekoderai" target="abhijeet_dipke" id="184" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="dhruv_rathee" target="abhijeet_dipke" id="186" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="dndwivedi13" target="abhijeet_dipke" id="187" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="factcheckpulse" target="abhijeet_dipke" id="190" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="factcheckpulse" target="cockroachisback" id="191" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="factcheckpulse" target="drrajneesh15" id="192" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="factcheckpulse" target="grok" id="193" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="factcheckpulse" target="hcp_2026" id="194" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="factcheckpulse" target="pushpendra_mp_" id="195" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="hcp_2026" target="abhijeet_dipke" id="196" weight="17.0">
+        <attvalues>
+          <attvalue for="4" value="mention|quote" />
+        </attvalues>
+      </edge>
+      <edge source="hcp_2026" target="abhinaymaths" id="197" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="hcp_2026" target="elvishyadav" id="198" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="hcp_2026" target="wangchuk66" id="199" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="flash101808" target="abhijeet_dipke" id="200" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="flash101808" target="cockroachisback" id="201" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="gac_insights" target="dhruv_rathee" id="202" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="gaurangbhardwa1" target="ians_india" id="203" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="genz_of_india_" target="abhijeet_dipke" id="204" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention|reply" />
+        </attvalues>
+      </edge>
+      <edge source="genz_of_india_" target="cockroachisback" id="205" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="genz_of_india_" target="pmoindia" id="206" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="genz_of_india_" target="sohitmishra99" id="207" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="genz_of_india_" target="wangchuk66" id="208" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="iamsyfshahid" target="cockroachisback" id="210" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="iamsyfshahid" target="grok" id="211" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="omieth" target="cockroachisback" id="212" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="omieth" target="grok" id="213" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="omieth" target="wangchuk66" id="214" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="shivpuj68421623" target="grok" id="215" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="guwahatiplus" target="eduminofindia" id="217" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="guwahatiplus" target="mygovindia" id="218" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="hebbarkeshava63" target="abhijeet_dipke" id="219" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="hebbarkeshava63" target="newsagnika" id="220" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="newsagnika" target="abhijeet_dipke" id="221" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="hello_dasu" target="abhijeet_dipke" id="222" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="hemanibhandari" target="cockroachisback" id="223" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="henrysingh_x" target="abhijeet_dipke" id="224" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="henrysingh_x" target="cockroachisback" id="225" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="henrysingh_x" target="iarpitspeaks" id="226" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="hjp2029_2036" target="opindia_com" id="227" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="opindia_com" target="anurragmishra" id="228" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="opindia_com" target="keshavmalan93" id="229" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="opindia_com" target="rahulroushan" id="230" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="opindia_com" target="ritikachandola" id="231" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="hudconntroversy" target="battakashmiri" id="232" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="i__m_vengeance" target="cockroachisback" id="233" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="iamsdr01" target="abhijeet_dipke" id="234" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="iamsdr01" target="newsarenaindia" id="235" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="iamutpalkhot" target="abhijeet_dipke" id="236" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="iamutpalkhot" target="cjp_for_india" id="237" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="iamutpalkhot" target="cockroach4india" id="238" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="iamutpalkhot" target="cockroachisback" id="239" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="iamutpalkhot" target="grok" id="240" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="iamutpalkhot" target="newsleaderlive" id="241" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="newsleaderlive" target="abhijeet_dipke" id="242" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="newsleaderlive" target="cjp_for_india" id="243" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="newsleaderlive" target="cockroach4india" id="244" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="newsleaderlive" target="cockroachisback" id="245" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="iatulkrishan1" target="abhijeet_dipke" id="246" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="iatulkrishan1" target="cjp_2029" id="247" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="iatulkrishan1" target="cockroachisback" id="248" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="iatulkrishan1" target="cpdelhi" id="249" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="iatulkrishan1" target="dcpnewdelhi" id="250" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="iatulkrishan1" target="delhipolice" id="251" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="iatulkrishan1" target="sauravdassss" id="252" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="incognito_qfs" target="abhijeet_dipke" id="253" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="incognito_qfs" target="khanumarfa" id="254" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="indic_god" target="aamaadmiparty" id="255" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="isatyam100" target="arvindkejriwal" id="257" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="ishu2015" target="abhijeet_dipke" id="258" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="itz__daniyal80" target="abhijeet_dipke" id="259" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="jeelanikash" target="cockroachisback" id="260" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="jgopikrishnan70" target="indian_analyzer" id="261" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="jgopikrishnan70" target="wangchuk66" id="262" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="jod_insane" target="elvishyadav" id="266" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="johnbrittas" target="abhijeet_dipke" id="267" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="johnbrittas" target="cockroachisback" id="268" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="journomirror" target="asadowaisi" id="269" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="journomirror" target="cockroachisback" id="270" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="khandelw13sagar" target="peektv_in" id="275" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="khandelw13sagar" target="sauravdassss" id="276" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="peektv_in" target="priyanshi50" id="277" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="kiranparashar21" target="abhijeet_dipke" id="280" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="kiranparashar21" target="cjp_2029" id="281" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="komal_indian" target="abhijeet_dipke" id="284" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="komal_indian" target="cockroachisback" id="285" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="kool96008" target="abhijeet_dipke" id="286" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="kool96008" target="cockroachisback" id="287" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="kool96008" target="dgpup" id="288" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="kool96008" target="uppolice" id="289" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="kumaarsaagar" target="cpdelhi" id="290" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="kumaarsaagar" target="dcpnewdelhi" id="291" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="kumaarsaagar" target="ltgovdelhi" id="292" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="kush_voice" target="abhijeet_dipke" id="293" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="livelawindia" target="cjp_for_india" id="294" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="livelawindia" target="cockroachisback" id="295" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="livelawindia" target="wangchuk66" id="296" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="lykajha" target="meghupdates" id="299" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="meghupdates" target="delhipolice" id="300" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="meghupdates" target="hmoindia" id="301" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="madhukishwar" target="cjp_2029" id="302" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="mahuamoitra" target="cockroachisback" id="303" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="maktoobmedia" target="abhijeet_dipke" id="304" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="maktoobmedia" target="kassuism" id="305" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="mango_aadami" target="abhijeet_dipke" id="306" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="mdhafiz59473117" target="cockroachisback" id="307" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="mnshap" target="imavdheshkumar" id="308" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="mrsandeepphogat" target="cockroachisback" id="311" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="mrsandeepphogat" target="sauravdassss" id="312" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="msisodia" target="abhijeet_dipke" id="313" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="msisodia" target="wangchuk66" id="314" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="mujmash" target="dcpnewdelhi" id="315" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="mumbaichadon" target="amitshah" id="316" weight="4.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="mumbaichadon" target="delhipolice" id="317" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="mumbaichadon" target="hmoindia" id="318" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="mumbaichadon" target="narendramodi" id="319" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="mystic_soul25" target="cockroachisback" id="320" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="mysticalbalaa" target="byomkesbakshy" id="321" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="mysticalbalaa" target="iarpitspeaks" id="322" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="mysticalbalaa" target="nevilleskynews" id="323" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="mysticalbalaa" target="skynews" id="324" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="skynews" target="nevilleskynews" id="325" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ndtv" target="ashutoshranka" id="326" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ndtv" target="cjp" id="327" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ndtv" target="sauravdassss" id="328" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ndtv" target="shreyag9401" id="329" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="newindianxpress" target="abhijeet_dipke" id="331" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="newindianxpress" target="cjp_for_india" id="332" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="newindianxpress" target="cockroachisback" id="333" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="news24tvchannel" target="abhijeet_dipke" id="335" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="news24tvchannel" target="ashutoshranka" id="336" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="news24tvchannel" target="cjp_for_india" id="337" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="news24tvchannel" target="cockroachisback" id="338" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="news24tvchannel" target="kapilsibal" id="339" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="news24tvchannel" target="ronak_khatrii" id="340" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="news24tvchannel" target="sauravdassss" id="341" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="news24tvchannel" target="uddhavthackeray" id="342" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="newslaundry" target="abhijeet_dipke" id="343" weight="4.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="newslaundry" target="akankhyaak72623" id="344" weight="4.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="newslaundry" target="anmolpritamnd" id="345" weight="4.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="newslaundry" target="imavdheshkumar" id="346" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="newslaundry" target="pushpendra_mp_" id="347" weight="4.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="newslaundry" target="samarthgrover87" id="348" weight="6.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="nileshhw" target="aamaadmiparty" id="349" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="nileshhw" target="abhijeet_dipke" id="350" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="nileshhw" target="arvindkejriwal" id="351" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="nileshhw" target="atishiaap" id="352" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="nileshhw" target="cjp_2029" id="353" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="nileshhw" target="sauravdassss" id="354" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="nileshhw" target="vijetadahiya" id="355" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="oldschoolmonk" target="ankursingh" id="357" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="onrecordindia" target="abhijeet_dipke" id="358" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="onrecordindia" target="cjp_2029" id="359" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rahulroushan" target="jaipurdialogues" id="360" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="opindia_tv" target="anurragmishra" id="361" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="opindia_tv" target="ritikachandola" id="362" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="panditramjoshi" target="hjp2029_2036" id="364" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="pradeepmaikhur3" target="narendramodi" id="367" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="pranavpradhi1" target="abhijeet_dipke" id="368" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="pranavpradhi1" target="cjp_for_india" id="369" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="pratiba_sk" target="newsalgebraind" id="370" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="pride_sanatan" target="amitshah" id="371" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="pride_sanatan" target="cpdelhi" id="372" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="pride_sanatan" target="delhipolice" id="373" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="pride_sanatan" target="hmoindia" id="374" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="pride_sanatan" target="narendramodi" id="375" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="pride_sanatan" target="pmoindia" id="376" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="publicnewsx" target="abhijeet_dipke" id="378" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="publicnewsx" target="delhipolice" id="379" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="punditto" target="abhijeet_dipke" id="380" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="rahultavar_" target="abhijeet_dipke" id="381" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rajatjain" target="abhijeet_dipke" id="382" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rajatjain" target="cockroachisback" id="383" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rajeshanand3263" target="newsalgebraind" id="384" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="ramanj59346817" target="meghupdates" id="385" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="ranaayyub" target="whattalawyer" id="386" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="whattalawyer" target="abhijeet_dipke" id="387" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="whattalawyer" target="ashutoshranka" id="388" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="whattalawyer" target="cjp_2029" id="389" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="whattalawyer" target="cockroachisback" id="390" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="whattalawyer" target="sauravdassss" id="391" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rationalbahujan" target="narendramodi" id="392" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="rautsanjay61" target="abhijeet_dipke" id="393" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ravish_journo" target="ajitanjum" id="394" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="ravisharmatalks" target="opindia_com" id="395" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="ravisharmatalks" target="rahulroushan" id="396" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="aajtak" id="397" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="cmodelhi" id="398" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="cnnnews18" id="399" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="cpdelhi" id="400" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="ddnewslive" id="401" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="delhipolice" id="402" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="dpradhanbjp" id="403" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="dtptraffic" id="404" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="hmoindia" id="405" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="indiatoday" id="406" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="indiatvnews" id="407" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="ltgovdelhi" id="408" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="ndtv" id="409" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="opindia_tv" id="410" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="republic" id="411" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="republic_bharat" id="412" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="timesnow" id="413" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="tnnavbharat" id="414" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rdxthinksthat" target="tv9bharatvarsh" id="415" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="timesnow" target="anchoramitaw" id="416" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="timesnow" target="pencilpatrakar" id="417" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="timesnow" target="sabyasachi_13" id="418" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="timesnow" target="shivamsharma_tn" id="419" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="tnnavbharat" target="abhijeet_dipke" id="420" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="tnnavbharat" target="wangchuk66" id="421" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="aamaadmiparty" id="422" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="aitcofficial" id="423" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="arivalayam" id="424" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="arvindkejriwal" id="425" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="derekobrienmp" id="426" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="kharge" id="427" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="laluprasadrjd" id="428" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="mamataofficial" id="429" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="mkstalin" id="430" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="priyankagandhi" id="431" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="rahulgandhi" id="432" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="rjdforindia" id="433" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="samajwadiparty" id="434" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="shivsenaubt_" id="435" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="udhavthackeray" id="436" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="wangchuk66" id="437" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="riarevealed" target="yadavakhilesh" id="438" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ridhu417sharma" target="bjp4up" id="439" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ridhu417sharma" target="bulandshahrpol" id="440" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ridhu417sharma" target="uppolice" id="441" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rishi_suri" target="abhijeet_dipke" id="442" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rishi_suri" target="cjp_2029" id="443" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rishi_suri" target="cockroachisback" id="444" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rishi_suri" target="dpradhanbjp" id="445" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ritikgupta1999" target="abhijeet_dipke" id="446" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ritikgupta1999" target="ashutoshranka" id="447" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ritikgupta1999" target="cockroachisback" id="448" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rohitkoul_23" target="sanket" id="449" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="sanket" target="abhijeet_dipke" id="450" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="rtabassum64473" target="vishwaguru2026" id="451" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="vishwaguru2026" target="abhijeet_dipke" id="452" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="s_insilence" target="iarpitspeaks" id="453" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="sadhamaanus" target="abhijeet_dipke" id="454" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sagarikaghose" target="cockroachisback" id="455" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sagarikaghose" target="narendramodi" id="456" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="saket71" target="abhijeet_dipke" id="457" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="saket71" target="ani" id="458" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="saket71" target="cjp_for_india" id="459" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="saket71" target="delhipolice" id="460" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="saket71" target="grok" id="461" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="saket71" target="rjdforindia" id="462" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="saketgokhale" target="abhijeet_dipke" id="463" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="saketgokhale" target="ashutoshranka" id="464" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="saketgokhale" target="cjp_2029" id="465" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="saketgokhale" target="cjp_for_india" id="466" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="saketgokhale" target="cockroachisback" id="467" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="saketgokhale" target="sauravdassss" id="468" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="saketgokhale" target="the_hindu" id="469" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="saketgokhale" target="vijetadahiya" id="470" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sandeepblore" target="cockroachisback" id="471" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="sandeepblore" target="nta_exams" id="472" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="sanjeev_atrey" target="abhijeet_dipke" id="473" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="sanjoychakra" target="ani" id="474" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sanvisharm49500" target="dhruv_rathee" id="475" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sardesairajdeep" target="ashutoshranka" id="477" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sardesairajdeep" target="livelawindia" id="478" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="saurabh_unmute" target="cockroachisback" id="479" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="saurabh_unmute" target="theredmike" id="480" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="theredmike" target="abhijeet_dipke" id="481" weight="5.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="theredmike" target="cockroachisback" id="482" weight="6.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="theredmike" target="saurabh_unmute" id="483" weight="7.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="theredmike" target="sauravdassss" id="484" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="theredmike" target="wangchuk66" id="485" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sharma_vanni12" target="abhijeet_dipke" id="487" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="shashilearns" target="ashutoshranka" id="490" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="shashilearns" target="cjpcomms" id="491" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="shashilearns" target="sauravdassss" id="492" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="shashilearns" target="vijetadahiya" id="493" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="shashisimply" target="wangchuk66" id="494" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="shatrugansinha" target="arvindkejriwal" id="495" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="shatrugansinha" target="mamataofficial" id="496" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="shatrugansinha" target="narendramodi" id="497" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="shatrugansinha" target="pmoindia" id="498" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="shatrugansinha" target="sanjayazadsin" id="499" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="shatrugansinha" target="ssrajputinc" id="500" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="shatrugansinha" target="wangchuk66" id="501" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="shatrugansinha" target="yashwantsinha" id="502" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="shonabubai" target="ani" id="504" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="shonabubai" target="cjpparti" id="505" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="shonabubai" target="sauravdassss" id="506" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="singhpramod2784" target="vijaita" id="509" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="vijaita" target="ikasnik" id="510" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="smita_sharma" target="abhijeet_dipke" id="511" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="smita_sharma" target="ashutoshranka" id="512" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="smita_sharma" target="cockroachisback" id="513" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="smita_sharma" target="wangchuk66" id="514" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="soulefacts" target="ankursingh" id="515" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="sphavisha" target="abhijeet_dipke" id="516" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="sphavisha" target="mnshap" id="517" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="sphavisha" target="sanjayazadsln" id="518" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sphavisha" target="wangchuk66" id="519" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sudarshannewsne" target="abhijeet_dipke" id="522" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="sudarshannewsne" target="ani" id="523" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="suranabasant" target="ani" id="524" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="suranabasant" target="arvindkejriwal" id="525" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="suranabasant" target="wangchuk66" id="526" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="tejyadav14" target="bjp4india" id="527" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="tejyadav14" target="cjp_for_india" id="528" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="tejyadav14" target="samrat4bjp" id="529" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="the_moment2746" target="abhijeet_dipke" id="530" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention|reply" />
+        </attvalues>
+      </edge>
+      <edge source="the_moment2746" target="cockroachisback" id="531" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="thelallantop" target="delhipolice" id="532" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thelallantop" target="hemraj____" id="533" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thelallantop" target="nehadhiman1004" id="534" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thelallantop" target="rajatpandeyjf" id="535" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thelallantop" target="roohanibhatia" id="536" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="themooknayakeng" target="abhijeet_dipke" id="537" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="themooknayakeng" target="aisfofficial" id="538" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="themooknayakeng" target="gitasunilpillai" id="539" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thepeeinghuman" target="ani" id="546" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="thesinceredude" target="nsui" id="547" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thesinceredude" target="vinodjakharin" id="548" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thesinceredude" target="wangchuk66" id="549" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thirdseat_org" target="cjp_2029" id="550" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thirdseat_org" target="dpradhanbjp" id="551" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thirdseat_org" target="drsukantabjp" id="552" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thirdseat_org" target="eduminofindia" id="553" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="thirdseat_org" target="jayantrld" id="554" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="tonytwitching" target="abhijeet_dipke" id="555" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="tweets_amit" target="abhijeet_dipke" id="557" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="tweets_amit" target="cjp_2029" id="558" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="tweetsoflamaa__" target="pranavpradhi1" id="559" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="ultrapromax100" target="abhijeet_dipke" id="562" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="ultrapromax100" target="bbc" id="563" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ultrapromax100" target="bbcbreaking" id="564" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ultrapromax100" target="cnn" id="565" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ultrapromax100" target="firstpost" id="566" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ultrapromax100" target="telegraph" id="567" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ultrapromax100" target="un" id="568" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ultrapromax100" target="unhumanrights" id="569" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="uni_photos" target="abhijeet_dipke" id="570" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="uni_photos" target="cockroachisback" id="571" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="uni_photos" target="wangchuk66" id="572" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="unsubtledesi" target="opindia_com" id="573" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="quote" />
+        </attvalues>
+      </edge>
+      <edge source="unsubtledesi" target="sauravdassss" id="574" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="urstrulyshubh" target="abhijeet_dipke" id="575" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="urstrulyshubh" target="cmodelhi" id="576" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="urstrulyshubh" target="delhipolice" id="577" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="varunkrrana" target="dainikbhaskar" id="579" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="vedantasays" target="abhijeet_dipke" id="580" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="vipul_reports" target="thewire_in" id="581" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="viraja_r69189" target="abhijeet_dipke" id="582" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="viraja_r69189" target="hebbarkeshava63" id="583" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="vishalkash1975" target="abhijeet_dipke" id="584" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="vishalkash1975" target="nileshhw" id="585" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="vishalkash1975" target="officeofut" id="586" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="vyasa1968" target="abhijeet_dipke" id="589" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="reply" />
+        </attvalues>
+      </edge>
+      <edge source="xbharat" target="abhijeet_dipke" id="592" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="mention|reply" />
+        </attvalues>
+      </edge>
+      <edge source="ziddinaagrik" target="abhijeet_dipke" id="594" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="ziddinaagrik" target="cockroachisback" id="595" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="zoo_bear" target="ddnewslive" id="596" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="zoo_bear" target="gautam_adani" id="597" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="zoo_bear" target="ians_india" id="598" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+      <edge source="zoo_bear" target="narendramodi" id="599" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="mention" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

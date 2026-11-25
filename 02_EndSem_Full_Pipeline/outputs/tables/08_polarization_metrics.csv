@@ -1,0 +1,13 @@
+platform,metric,value,null_mean,null_sd,z,p_null_le_obs,n_nodes,n_edges
+x,modularity of Louvain partition (weighted),0.618,,,,,,
+x,"E-I index, community partition (-1 segregated … +1 all external)",-0.4956,,,,,,
+x,share of edges crossing communities (observed),0.271,0.8811,0.0128,-47.49,0.0,,
+x,"E-I index, stance partition (PRO vs ANTI users)",-0.1282,,,,,138.0,164.0
+x,"stance assortativity (directed, PRO/ANTI users)",0.2253,,,,,,
+x,Random-Walk Controversy PRO vs ANTI (k=10 hubs),0.3764,0.187,0.0745,,,,
+reddit,modularity of Louvain partition (weighted),0.66,,,,,,
+reddit,"E-I index, community partition (-1 segregated … +1 all external)",-0.3585,,,,,,
+reddit,share of edges crossing communities (observed),0.4201,0.9701,0.0005,-1018.78,0.0,,
+reddit,"E-I index, stance partition (PRO vs ANTI users)",-0.7474,,,,,24599.0,22818.0
+reddit,"stance assortativity (directed, PRO/ANTI users)",0.5378,,,,,,
+reddit,Random-Walk Controversy PRO vs ANTI (k=10 hubs),0.2548,-0.0032,0.0255,,,,

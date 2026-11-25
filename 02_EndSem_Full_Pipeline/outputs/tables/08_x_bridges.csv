@@ -1,0 +1,32 @@
+node,community,participation,contacts,betweenness,weighted_in,weighted_out,user_stance,is_bridge,connects,account_type,hostile_share
+cockroachisback,1,0.5750513223040694,59,0.0209447415329768,79,12,PRO,True,"C1(38), C2(5), C7(4), C6(4)",cjp_org,0.0
+sauravdassss,1,0.5916727538349161,26,0.0155712724972687,19,18,PRO,True,"C1(12), C3(3), C4(3), C2(2)",cjp_org,0.09090909090909091
+abhijeet_dipke,2,0.6823116075852438,86,0.0126200333505836,146,3,PRO,True,"C2(37), C1(19), C7(5), C4(4)",cjp_org,0.0
+delhipolice,4,0.27810650887573984,21,0.0075757575757575,19,7,NEUTRAL,True,"C4(17), C1(1), C5(1), C3(1)",police_gov,0.0
+grok,6,0.1266666666666667,19,0.0021893508136392,11,19,NEUTRAL,True,"C6(17), C7(1), C3(1)",ai_bot,0.0
+cjpcomms,1,0.375,4,0.0009502041285722,3,1,PRO,True,"C1(3), C4(1)",citizen_other,0.0
+dcpnewdelhi,4,0.43827160493827155,11,0.0008064516129032,5,13,ANTI,True,"C4(9), C2(1), C7(1)",police_gov,0.0
+factcheckpulse,6,0.58,6,0.0005369156460238,3,7,NEUTRAL,True,"C6(2), C2(2), C1(1), C12(1)",citizen_other,0.0
+thewire_in,19,0.625,7,0.0004154447702834,3,5,NEUTRAL,True,"C19(3), C2(2), C1(2)",news_media,0.0
+whattalawyer,1,0.5,6,0.0002156287735035,1,5,PRO,True,"C1(4), C2(1), C8(1)",news_media,0.0
+nileshhw,3,0.7160493827160495,8,0.0001681904433327,1,8,ANTI,True,"C3(3), C2(2), C1(2), C8(1)",citizen_other,0.0
+cjp_for_india,7,0.6,14,0.0001638778678626,19,1,PRO,True,"C7(7), C1(3), C10(1), C4(1)",cjp_org,0.0
+_sabanaqvi,2,0.5679012345679012,7,0.0,0,9,PRO,True,"C2(3), C1(3), C8(1)",partisan_citizen,0.0
+cjp_2029,8,0.6982248520710059,12,0.0,13,0,no_posts,True,"C8(6), C1(3), C2(1), C4(1)",addressed only,
+wangchuk66,1,0.7221172022684309,21,0.0,23,0,PRO,True,"C1(9), C2(3), C3(3), C6(2)",politician_party,0.0
+aryakthinks,16,0.72,5,0.0,0,5,ANTI,True,"C16(2), C2(1), C4(1), C1(1)",citizen_other,0.0
+dpradhanbjp,8,0.5599999999999999,5,0.0,5,0,no_posts,True,"C8(3), C1(1), C5(1)",addressed only,
+pmoindia,4,0.625,4,0.0,4,0,no_posts,True,"C4(2), C2(1), C3(1)",addressed only,
+dchaurasia2312,4,0.6172839506172839,9,0.0,0,9,NEUTRAL,True,"C4(5), C3(2), C7(1), C1(1)",news_media,0.0
+genz_of_india_,2,0.5714285714285714,5,0.0,0,7,PRO,True,"C2(2), C1(2), C4(1)",citizen_other,0.0
+iamutpalkhot,7,0.6666666666666666,6,0.0,0,6,ANTI,True,"C7(3), C2(1), C1(1), C6(1)",news_media,0.0
+newsleaderlive,7,0.5599999999999999,5,0.0,1,4,NEUTRAL,True,"C7(3), C2(1), C1(1)",news_media,0.0
+iatulkrishan1,4,0.6782006920415224,7,0.0,0,17,ANTI,True,"C4(3), C1(2), C2(1), C8(1)",news_media,0.14285714285714285
+kool96008,10,0.625,4,0.0,0,4,ANTI,True,"C10(2), C2(1), C1(1)",partisan_citizen,0.0
+news24tvchannel,7,0.6428571428571429,8,0.0,0,14,NEUTRAL,True,"C7(4), C1(3), C2(1)",news_media,0.0
+rdxthinksthat,5,0.5263157894736843,19,0.0,0,19,ANTI,True,"C5(12), C4(5), C8(1), C11(1)",public_figure,0.3333333333333333
+rishi_suri,8,0.625,4,0.0,0,4,ANTI,True,"C8(2), C2(1), C1(1)",citizen_other,0.0
+saket71,3,0.7777777777777777,6,0.0,0,6,ANTI,True,"C3(2), C2(1), C7(1), C4(1)",public_figure,0.0
+saketgokhale,1,0.6875,8,0.0,0,8,PRO,True,"C1(4), C2(1), C8(1), C7(1)",politician_party,0.0
+shatrugansinha,3,0.53125,8,0.0,0,8,PRO,True,"C3(5), C4(2), C1(1)",politician_party,0.0
+sphavisha,12,0.625,4,0.0,0,4,PRO,True,"C12(2), C2(1), C1(1)",citizen_other,0.0

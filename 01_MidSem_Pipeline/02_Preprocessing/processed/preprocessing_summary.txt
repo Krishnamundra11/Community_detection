@@ -1,0 +1,14 @@
+Study window: 2026-06-01 00:00:00 through 2026-07-31 23:59:59
+Input CSV files processed: 12
+Relevant rows kept before cross-file deduplication: 1891
+Unique posts in master dataset: 1727
+Unique authors (author ID where present, otherwise handle): 651
+Generic/off-topic in-window rows excluded before deduplication: 560
+Posts with text usable for content analysis: 1727
+Posts with an author usable for network analysis: 1727
+Posts marked as replies: 112
+Posts marked as quotes: 117
+Posts with mentions: 370
+Posts without a clear topic link are excluded from the master and saved with their reason.
+Rows with a missing ID or invalid timestamp are listed in data_quality_exceptions.csv.
+Output folder: /content/drive/MyDrive/CSMA/CSMA Extended Datasets /processed

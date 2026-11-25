@@ -1,0 +1,16 @@
+# Large raw/processed data & caches (>50 MB, exceeds GitHub file limits)
+# Can be regenerated using 01_Data_Collection.ipynb / scripts/collect_reddit*.py and 06_Community_Classification.ipynb
+02_EndSem_Full_Pipeline/data/reddit_raw/comments_threads_as.jsonl
+02_EndSem_Full_Pipeline/data/reddit_raw/submissions.jsonl
+02_EndSem_Full_Pipeline/data/embeddings_cache.npz
+02_EndSem_Full_Pipeline/data/reddit_processed/reddit_items_unified.csv
+
+# Superseded/archive folder (redundant backup)
+99_Archive_Unused/
+
+# Python / Jupyter / OS artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

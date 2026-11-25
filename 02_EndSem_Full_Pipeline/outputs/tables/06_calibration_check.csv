@@ -1,0 +1,4 @@
+stance,annotated sample (reddit),predicted before correction (reddit),predicted after correction (reddit),"annotated sample (x, stratified)",predicted (x)
+ANTI,0.176,0.077,0.176,0.332,0.346
+NEUTRAL,0.489,0.411,0.489,0.388,0.448
+PRO,0.335,0.511,0.335,0.279,0.206

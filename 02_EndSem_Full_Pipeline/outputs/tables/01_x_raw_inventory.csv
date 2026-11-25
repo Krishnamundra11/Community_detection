@@ -1,0 +1,13 @@
+group,file,rows,columns,first_post,last_post,in_window
+Group A,1_CJP_Protest_cleaned_filtered.csv,232,44,2026-06-01 07:37:39,2026-07-31 07:33:48,232
+Group A,2_CJP_JantarMantar_cleaned_filtered.csv,338,44,2026-06-01 07:37:39,2026-07-31 18:12:52,338
+Group A,3rd Jantar Mantar Protestors.csv,680,44,2026-06-04 02:29:05,2026-07-31 13:59:14,680
+Group A,4th कॉकरोच जनता पार्टी.csv,220,44,2026-06-01 08:40:04,2026-07-31 08:35:31,220
+Group B,4_CJP_NEET-UG_cleaned_filtered.csv,145,44,2026-06-01 12:37:43,2026-07-31 20:58:27,145
+Group B,_NEET aspirants_ _Jantar Mantar_.csv,50,44,2023-02-07 02:40:42,2026-09-28 08:57:04,40
+Group B,_paper leak_ _Jantar Mantar_.csv,292,44,2018-03-28 16:56:13,2026-09-30 15:05:47,133
+Group C,3a_CJP_Government_Original_cleaned_filtered.csv,45,44,2026-06-06 03:43:33,2026-07-31 16:26:13,45
+Group C,3b_CJP_Government_AdvSearch_cleaned_filtered.csv,42,44,2026-06-05 20:17:07,2026-07-30 04:15:00,42
+Group C,Jantar Mantar_ _Delhi Police.csv,747,44,2026-06-01 09:37:18,2026-07-31 14:47:21,747
+Group C,Jantar Mantar_ _Education Minister_.csv,191,44,2024-06-26 18:54:10,2026-10-01 12:11:08,138
+Group C,_Jantar Mantar_ government.csv,858,44,2016-02-13 04:36:29,2026-10-01 12:01:51,131

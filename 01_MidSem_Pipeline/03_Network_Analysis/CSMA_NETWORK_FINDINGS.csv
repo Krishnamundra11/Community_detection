@@ -1,0 +1,30 @@
+category,finding,value
+Overall Network,Number of nodes,466
+Overall Network,Number of directed edges,600
+Overall Network,Network density,0.002769
+Connectivity,Weakly connected components,50
+Connectivity,Strongly connected components,455
+Connectivity,Largest WCC size,342
+Connectivity,Largest WCC percentage,73.39
+Interaction,Total interaction weight,900
+Interaction,Mean edge weight,1.5
+Interaction,Median edge weight,1.0
+Interaction,Maximum edge weight,26
+Centrality,Top weighted in-degree actor,abhijeet_dipke
+Centrality,Top weighted in-degree,186
+Centrality,Top weighted out-degree actor,riarevealed
+Centrality,Top weighted out-degree,34
+Centrality,Top betweenness actor,cockroachisback
+Centrality,Highest betweenness,0.011255
+Centrality,Top closeness actor,abhijeet_dipke
+Centrality,Highest closeness,0.204759
+Community,Number of communities,21
+Community,Largest community,1
+Community,Largest community size,57
+Community,Largest community percentage,16.67
+Community,Densest community,21
+Community,Highest community density,0.5
+Community,Modularity,0.6237
+Actor Roles,Dominant actor role,Peripheral / local actor
+Actor Roles,Actors in dominant role,231
+Actor Roles,Percentage in dominant role,67.54

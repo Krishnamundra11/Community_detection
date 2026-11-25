@@ -1,0 +1,367 @@
+2026-10-19 12:51:49 === STAGE 1: 52 submission jobs; already done 0; free disk 6.0 GB
+2026-10-19 12:52:50 stage1 A|"Cockroach Janta Party"                     matched   1333 new   1333 | total unique   1333 | req 14 | 1.0 min
+2026-10-19 12:54:09   HTTP 429 on https://api.pullpush.io/reddit/search/submission/?q=CJP&after=1780272000&before=1784980809&size=100&sort=desc& -> sleep 30s
+2026-10-19 12:54:42   HTTP 429 on https://api.pullpush.io/reddit/search/submission/?q=CJP&after=1780272000&before=1784980809&size=100&sort=desc& -> sleep 60s
+2026-10-19 12:55:45   HTTP 429 on https://api.pullpush.io/reddit/search/submission/?q=CJP&after=1780272000&before=1784980809&size=100&sort=desc& -> sleep 120s
+2026-10-19 12:56:53 === STAGE 1: 52 submission jobs; already done 1; free disk 4.9 GB
+2026-10-19 12:56:57   HTTP 429 on https://api.pullpush.io/reddit/search/submission/?q=CJP&after=1780272000&before=1785542399&size=100&sort=desc& -> sleep 30s
+2026-10-19 12:57:30   HTTP 429 on https://api.pullpush.io/reddit/search/submission/?q=CJP&after=1780272000&before=1785542399&size=100&sort=desc& -> sleep 60s
+2026-10-19 12:58:33   HTTP 429 on https://api.pullpush.io/reddit/search/submission/?q=CJP&after=1780272000&before=1785542399&size=100&sort=desc& -> sleep 120s
+2026-10-19 13:00:25 === STAGE 1: 52 submission jobs; already done 1; free disk 3.7 GB
+2026-10-19 13:00:28   HTTP 429 on https://api.pullpush.io/reddit/search/submission/?q=CJP&after=1780272000&before=1785542399&size=100&sort=desc& -> sleep 30s
+2026-10-19 13:01:00   HTTP 429 on https://api.pullpush.io/reddit/search/submission/?q=CJP&after=1780272000&before=1785542399&size=100&sort=desc& -> sleep 60s
+2026-10-19 13:02:04   HTTP 429 on https://api.pullpush.io/reddit/search/submission/?q=CJP&after=1780272000&before=1785542399&size=100&sort=desc& -> sleep 120s
+2026-10-19 13:04:06   HTTP 429 on https://api.pullpush.io/reddit/search/submission/?q=CJP&after=1780272000&before=1785542399&size=100&sort=desc& -> sleep 240s
+2026-10-19 13:07:11 === STAGE 1: 52 submission jobs; already done 1; free disk 4.1 GB
+2026-10-19 13:07:14   HTTP 429 (rate limit) -> sleep 5 min
+2026-10-19 13:12:17   HTTP 429 (rate limit) -> sleep 10 min
+2026-10-19 13:21:40 === STAGE 1: 52 submission jobs; already done 1; free disk 5.7 GB
+2026-10-19 13:21:56   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 13:23:59   rate-limited on A|"Abhijeet Dipke"; deferred to the end of the queue (51 left)
+2026-10-19 13:26:52   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 13:28:55   rate-limited on A|Dipke; deferred to the end of the queue (51 left)
+2026-10-19 13:29:35 stage1 A|"cockroach party"                           matched    212 new    193 | total unique   4459 | req 43 | 7.9 min
+2026-10-19 13:29:57 stage1 A|cockroachjantaparty                         matched    130 new    107 | total unique   4566 | req 46 | 8.3 min
+2026-10-19 13:30:43 stage1 A|"Saurav Das"                                matched    262 new    141 | total unique   4707 | req 52 | 9.0 min
+2026-10-19 13:31:06 stage1 A|"Ashutosh Ranka"                            matched    124 new     43 | total unique   4750 | req 55 | 9.4 min
+2026-10-19 13:31:44 stage1 A|"Vijeta Dahiya"                             matched    213 new    160 | total unique   4910 | req 60 | 10.1 min
+2026-10-19 13:31:51 stage1 A|"Cockroach is Back"                         matched      7 new      4 | total unique   4914 | req 61 | 10.2 min
+2026-10-19 13:35:07   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 13:37:10   rate-limited on A|"cockroach janta"; deferred to the end of the queue (45 left)
+2026-10-19 13:41:00   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 13:43:03   rate-limited on B|NEET protest; deferred to the end of the queue (45 left)
+2026-10-19 13:46:33   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 13:48:36   rate-limited on B|"paper leak"; deferred to the end of the queue (45 left)
+2026-10-19 13:48:39   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 13:50:42   rate-limited on B|"Dharmendra Pradhan"; deferred to the end of the queue (45 left)
+2026-10-19 13:54:13   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 13:56:16   rate-limited on B|"Pradhan resign"; deferred to the end of the queue (45 left)
+2026-10-19 14:07:36 stage1 B|"education minister"                        matched   4553 new   3630 | total unique  11601 | req 253 | 45.9 min
+2026-10-19 14:12:17 stage1 B|"NEET-UG"                                   matched   1851 new   1644 | total unique  13245 | req 291 | 50.6 min
+2026-10-19 14:12:59 stage1 B|NTA protest                                 matched    299 new    124 | total unique  13369 | req 297 | 51.3 min
+2026-10-19 14:14:24 stage1 B|NEET scam                                   matched    538 new    415 | total unique  13784 | req 308 | 52.7 min
+2026-10-19 14:14:31 stage1 B|"exam manifesto"                            matched      2 new      2 | total unique  13786 | req 309 | 52.9 min
+2026-10-19 14:16:18 stage1 B|NEET "Jantar Mantar"                        matched    613 new    201 | total unique  13987 | req 322 | 54.6 min
+2026-10-19 14:18:53   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 14:20:56   rate-limited on C|"Jantar Mantar"; deferred to the end of the queue (39 left)
+2026-10-19 14:21:20   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 14:25:13   TimeoutError: The read operation timed out -> sleep 10s
+2026-10-19 14:25:33   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 14:27:56   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 14:30:30   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 14:32:33   rate-limited on C|"Delhi Police" protest; deferred to the end of the queue (39 left)
+2026-10-19 14:32:35   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 14:36:56   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 14:55:12 stage1 C|"Sonam Wangchuk"                            matched   7184 new   6170 | total unique  21243 | req 499 | 93.5 min
+2026-10-19 15:15:24   TimeoutError: The read operation timed out -> sleep 10s
+2026-10-19 15:16:38 stage1 C|Wangchuk                                    matched   7939 new    656 | total unique  21899 | req 659 | 115.0 min
+2026-10-19 15:20:16 stage1 C|"lathi charge"                              matched   1457 new   1105 | total unique  23004 | req 689 | 118.6 min
+2026-10-19 15:20:52 stage1 C|"Chalo Sansad"                              matched    249 new    139 | total unique  23143 | req 694 | 119.2 min
+2026-10-19 15:21:29 stage1 C|"Parliament march"                          matched    186 new    107 | total unique  23250 | req 698 | 119.8 min
+2026-10-19 15:22:19 stage1 C|"tear gas" Delhi                            matched    332 new    120 | total unique  23370 | req 705 | 120.7 min
+2026-10-19 15:23:53   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 15:25:56   rate-limited on C|"B-team"; deferred to the end of the queue (33 left)
+2026-10-19 15:26:34   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 15:28:41 stage1 C|"foreign funding"                           matched    271 new    154 | total unique  23985 | req 721 | 127.0 min
+2026-10-19 15:29:01 stage1 C|Nadda CJP                                   matched    149 new     56 | total unique  24041 | req 724 | 127.4 min
+2026-10-19 15:29:18   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 15:31:48   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 15:34:43 stage1 C|"hunger strike" Delhi                       matched    508 new     30 | total unique  24071 | req 735 | 133.0 min
+2026-10-19 15:34:51 stage1 C|"Pradhan Go Back"                           matched      1 new      1 | total unique  24072 | req 736 | 133.2 min
+2026-10-19 15:35:04 stage1 C|"Delhi Metro" protest                       matched     62 new     45 | total unique  24117 | req 738 | 133.4 min
+2026-10-19 15:35:07   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 15:37:23 stage1 C|Kejriwal "Jantar Mantar"                    matched     60 new     12 | total unique  24129 | req 740 | 135.7 min
+2026-10-19 15:37:50 stage1 D|AISA protest                                matched    113 new     58 | total unique  24187 | req 743 | 136.2 min
+2026-10-19 15:37:53   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 15:40:07 stage1 D|SFI protest                                 matched     87 new     33 | total unique  24220 | req 745 | 138.5 min
+2026-10-19 15:40:14 stage1 D|NSUI protest                                matched     26 new     15 | total unique  24235 | req 746 | 138.6 min
+2026-10-19 15:40:28 stage1 D|ABVP protest                                matched     71 new     38 | total unique  24273 | req 748 | 138.8 min
+2026-10-19 15:40:44 stage1 D|AISF                                        matched     72 new     33 | total unique  24306 | req 750 | 139.1 min
+2026-10-19 15:40:51 stage1 D|"Cockroach Students"                        matched      3 new      1 | total unique  24307 | req 751 | 139.2 min
+2026-10-19 15:41:08 stage1 D|"student union" protest                     matched     75 new     43 | total unique  24350 | req 753 | 139.5 min
+2026-10-19 15:41:15 stage1 D|"JNU students"                              matched     34 new     32 | total unique  24382 | req 754 | 139.6 min
+2026-10-19 15:41:42 stage1 D|"Neha Bora"                                 matched    159 new    122 | total unique  24504 | req 758 | 140.0 min
+2026-10-19 15:41:49 stage1 D|"Aishe Ghosh"                               matched     23 new     16 | total unique  24520 | req 759 | 140.2 min
+2026-10-19 15:42:10 stage1 D|"students protest" Delhi                    matched    117 new     50 | total unique  24570 | req 762 | 140.5 min
+2026-10-19 15:43:25 stage1 D|"Gen Z" protest India                       matched    311 new    156 | total unique  24726 | req 769 | 141.7 min
+2026-10-19 15:43:32 stage1 D|KYS protest                                 matched      1 new      1 | total unique  24727 | req 770 | 141.9 min
+2026-10-19 15:54:42 stage1 A|subreddit:cockroachjantaparty               matched   3925 new   3386 | total unique  28113 | req 849 | 153.0 min
+2026-10-19 15:58:14 stage1 A|subreddit:CockroachJantaParty09             matched   1421 new   1089 | total unique  29202 | req 878 | 156.6 min
+2026-10-19 15:58:21 stage1 A|subreddit:CJP_Protest_                      matched      0 new      0 | total unique  29202 | req 879 | 156.7 min
+2026-10-19 15:58:24   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:00:27   rate-limited on A|CJP; deferred to the end of the queue (11 left)
+2026-10-19 16:00:30   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:02:33   rate-limited on A|"Abhijeet Dipke"; deferred to the end of the queue (11 left)
+2026-10-19 16:02:36   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:04:38   rate-limited on A|Dipke; deferred to the end of the queue (11 left)
+2026-10-19 16:04:42   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:06:48   rate-limited on A|"cockroach janta"; deferred to the end of the queue (11 left)
+2026-10-19 16:06:50   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:08:53   rate-limited on B|NEET protest; deferred to the end of the queue (11 left)
+2026-10-19 16:08:56   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:10:59   rate-limited on B|"paper leak"; deferred to the end of the queue (11 left)
+2026-10-19 16:11:02   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:13:04   rate-limited on B|"Dharmendra Pradhan"; deferred to the end of the queue (11 left)
+2026-10-19 16:13:07   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:15:10   rate-limited on B|"Pradhan resign"; deferred to the end of the queue (11 left)
+2026-10-19 16:15:13   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:17:16   rate-limited on C|"Jantar Mantar"; deferred to the end of the queue (11 left)
+2026-10-19 16:20:03 stage1 C|"Delhi Police" protest                      matched   1001 new    146 | total unique  29348 | req 900 | 178.4 min
+2026-10-19 16:20:05   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:22:08   rate-limited on C|"B-team"; deferred to the end of the queue (10 left)
+2026-10-19 16:22:11   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:24:14   rate-limited on A|CJP; deferred to the end of the queue (10 left)
+2026-10-19 16:24:17   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:26:20   rate-limited on A|"Abhijeet Dipke"; deferred to the end of the queue (10 left)
+2026-10-19 16:26:23   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:28:25   rate-limited on A|Dipke; deferred to the end of the queue (10 left)
+2026-10-19 16:28:28   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:30:31   rate-limited on A|"cockroach janta"; deferred to the end of the queue (10 left)
+2026-10-19 16:30:34   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:32:37   rate-limited on B|NEET protest; deferred to the end of the queue (10 left)
+2026-10-19 16:32:41   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:34:44   rate-limited on B|"paper leak"; deferred to the end of the queue (10 left)
+2026-10-19 16:34:46   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:36:49   rate-limited on B|"Dharmendra Pradhan"; deferred to the end of the queue (10 left)
+2026-10-19 16:36:52   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:38:55   rate-limited on B|"Pradhan resign"; deferred to the end of the queue (10 left)
+2026-10-19 16:38:58   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:41:01   rate-limited on C|"Jantar Mantar"; deferred to the end of the queue (10 left)
+2026-10-19 16:41:01   every remaining job is throttled -> sleep 15 min
+2026-10-19 16:56:05   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 16:58:07   rate-limited on C|"B-team"; deferred to the end of the queue (10 left)
+2026-10-19 16:58:11   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:00:14   rate-limited on A|CJP; deferred to the end of the queue (10 left)
+2026-10-19 17:00:17   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:02:19   rate-limited on A|"Abhijeet Dipke"; deferred to the end of the queue (10 left)
+2026-10-19 17:02:22   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:04:25   rate-limited on A|Dipke; deferred to the end of the queue (10 left)
+2026-10-19 17:04:29   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:06:31   rate-limited on A|"cockroach janta"; deferred to the end of the queue (10 left)
+2026-10-19 17:06:34   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:08:37   rate-limited on B|NEET protest; deferred to the end of the queue (10 left)
+2026-10-19 17:08:40   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:10:43   rate-limited on B|"paper leak"; deferred to the end of the queue (10 left)
+2026-10-19 17:10:46   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:12:49   rate-limited on B|"Dharmendra Pradhan"; deferred to the end of the queue (10 left)
+2026-10-19 17:12:51   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:14:54   rate-limited on B|"Pradhan resign"; deferred to the end of the queue (10 left)
+2026-10-19 17:14:57   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:17:01   rate-limited on C|"Jantar Mantar"; deferred to the end of the queue (10 left)
+2026-10-19 17:17:01   every remaining job is throttled -> sleep 15 min
+2026-10-19 17:19:57 === STAGE 1: 52 submission jobs; already done 42; free disk 6.1 GB
+2026-10-19 17:20:00   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:22:03   rate-limited on A|"Abhijeet Dipke"; deferred to the end of the queue (10 left)
+2026-10-19 17:22:06   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:24:09   rate-limited on A|Dipke; deferred to the end of the queue (10 left)
+2026-10-19 17:24:12   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:26:15   rate-limited on A|"cockroach janta"; deferred to the end of the queue (10 left)
+2026-10-19 17:26:18   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:28:21   rate-limited on B|NEET protest; deferred to the end of the queue (10 left)
+2026-10-19 17:28:24   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:30:27   rate-limited on B|"paper leak"; deferred to the end of the queue (10 left)
+2026-10-19 17:30:29   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:32:32   rate-limited on B|"Dharmendra Pradhan"; deferred to the end of the queue (10 left)
+2026-10-19 17:32:35   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:34:38   rate-limited on B|"Pradhan resign"; deferred to the end of the queue (10 left)
+2026-10-19 17:34:41   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:36:44   rate-limited on C|"Jantar Mantar"; deferred to the end of the queue (10 left)
+2026-10-19 17:36:47   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:38:50   rate-limited on C|"B-team"; deferred to the end of the queue (10 left)
+2026-10-19 17:38:53   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:40:56   rate-limited on A|CJP; deferred to the end of the queue (10 left)
+2026-10-19 17:40:56   every remaining job is throttled -> sleep 15 min
+2026-10-19 17:55:59   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 17:58:02   rate-limited on A|"Abhijeet Dipke"; deferred to the end of the queue (10 left)
+2026-10-19 17:58:04   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:00:07   rate-limited on A|Dipke; deferred to the end of the queue (10 left)
+2026-10-19 18:00:10   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:02:13   rate-limited on A|"cockroach janta"; deferred to the end of the queue (10 left)
+2026-10-19 18:02:16   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:04:19   rate-limited on B|NEET protest; deferred to the end of the queue (10 left)
+2026-10-19 18:04:21   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:06:24   rate-limited on B|"paper leak"; deferred to the end of the queue (10 left)
+2026-10-19 18:06:27   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:08:30   rate-limited on B|"Dharmendra Pradhan"; deferred to the end of the queue (10 left)
+2026-10-19 18:08:33   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:10:36   rate-limited on B|"Pradhan resign"; deferred to the end of the queue (10 left)
+2026-10-19 18:10:39   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:12:42   rate-limited on C|"Jantar Mantar"; deferred to the end of the queue (10 left)
+2026-10-19 18:12:45   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:14:47   rate-limited on C|"B-team"; deferred to the end of the queue (10 left)
+2026-10-19 18:14:50   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:16:53   rate-limited on A|CJP; deferred to the end of the queue (10 left)
+2026-10-19 18:16:53   every remaining job is throttled -> sleep 15 min
+2026-10-19 18:31:56   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:34:07   rate-limited on A|"Abhijeet Dipke"; deferred to the end of the queue (10 left)
+2026-10-19 18:34:10   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:36:13   rate-limited on A|Dipke; deferred to the end of the queue (10 left)
+2026-10-19 18:36:16   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:38:19   rate-limited on A|"cockroach janta"; deferred to the end of the queue (10 left)
+2026-10-19 18:38:22   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:40:26   rate-limited on B|NEET protest; deferred to the end of the queue (10 left)
+2026-10-19 18:40:30   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:42:32   rate-limited on B|"paper leak"; deferred to the end of the queue (10 left)
+2026-10-19 18:42:35   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:44:38   rate-limited on B|"Dharmendra Pradhan"; deferred to the end of the queue (10 left)
+2026-10-19 18:44:41   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:46:44   rate-limited on B|"Pradhan resign"; deferred to the end of the queue (10 left)
+2026-10-19 18:46:47   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:48:50   rate-limited on C|"Jantar Mantar"; deferred to the end of the queue (10 left)
+2026-10-19 18:48:52   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:50:55   rate-limited on C|"B-team"; deferred to the end of the queue (10 left)
+2026-10-19 18:50:58   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 18:53:01   rate-limited on A|CJP; deferred to the end of the queue (10 left)
+2026-10-19 18:53:01   every remaining job is throttled -> sleep 15 min
+2026-10-19 19:08:04   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 19:10:07   rate-limited on A|"Abhijeet Dipke"; deferred to the end of the queue (10 left)
+2026-10-19 19:10:09   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 19:12:12   rate-limited on A|Dipke; deferred to the end of the queue (10 left)
+2026-10-19 19:12:15   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 19:14:18   rate-limited on A|"cockroach janta"; deferred to the end of the queue (10 left)
+2026-10-19 19:14:21   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 19:16:24   rate-limited on B|NEET protest; deferred to the end of the queue (10 left)
+2026-10-19 19:16:27   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 19:18:30   rate-limited on B|"paper leak"; deferred to the end of the queue (10 left)
+2026-10-19 19:18:32   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 19:20:36   rate-limited on B|"Dharmendra Pradhan"; deferred to the end of the queue (10 left)
+2026-10-19 19:20:39   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 19:22:41   rate-limited on B|"Pradhan resign"; deferred to the end of the queue (10 left)
+2026-10-19 19:22:44   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 19:24:47   rate-limited on C|"Jantar Mantar"; deferred to the end of the queue (10 left)
+2026-10-19 19:24:50   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 19:26:53   rate-limited on C|"B-team"; deferred to the end of the queue (10 left)
+2026-10-19 19:26:55   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 19:28:59   rate-limited on A|CJP; deferred to the end of the queue (10 left)
+2026-10-19 19:28:59   every remaining job is throttled -> sleep 15 min
+2026-10-19 20:16:54   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 22:11:24   rate-limited on A|"Abhijeet Dipke"; deferred to the end of the queue (10 left)
+2026-10-19 22:11:27   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 22:56:16   rate-limited on A|Dipke; deferred to the end of the queue (10 left)
+2026-10-19 22:56:19   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 22:58:22   rate-limited on A|"cockroach janta"; deferred to the end of the queue (10 left)
+2026-10-19 22:58:25   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:00:28   rate-limited on B|NEET protest; deferred to the end of the queue (10 left)
+2026-10-19 23:00:31   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:02:34   rate-limited on B|"paper leak"; deferred to the end of the queue (10 left)
+2026-10-19 23:02:37   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:04:40   rate-limited on B|"Dharmendra Pradhan"; deferred to the end of the queue (10 left)
+2026-10-19 23:04:44   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:06:47   rate-limited on B|"Pradhan resign"; deferred to the end of the queue (10 left)
+2026-10-19 23:06:50   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:08:54   rate-limited on C|"Jantar Mantar"; deferred to the end of the queue (10 left)
+2026-10-19 23:11:28 stage1 C|"B-team"                                    matched    792 new    299 | total unique  29647 | req 916 | 351.5 min
+2026-10-19 23:11:31   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:13:34   rate-limited on A|CJP; deferred to the end of the queue (9 left)
+2026-10-19 23:13:37   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:15:40   rate-limited on A|"Abhijeet Dipke"; deferred to the end of the queue (9 left)
+2026-10-19 23:15:43   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:17:47   rate-limited on A|Dipke; deferred to the end of the queue (9 left)
+2026-10-19 23:17:50   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:19:53   rate-limited on A|"cockroach janta"; deferred to the end of the queue (9 left)
+2026-10-19 23:19:56   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:21:59   rate-limited on B|NEET protest; deferred to the end of the queue (9 left)
+2026-10-19 23:22:03   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:24:06   rate-limited on B|"paper leak"; deferred to the end of the queue (9 left)
+2026-10-19 23:24:09   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:26:12   rate-limited on B|"Dharmendra Pradhan"; deferred to the end of the queue (9 left)
+2026-10-19 23:26:15   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:28:18   rate-limited on B|"Pradhan resign"; deferred to the end of the queue (9 left)
+2026-10-19 23:28:22   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:30:25   rate-limited on C|"Jantar Mantar"; deferred to the end of the queue (9 left)
+2026-10-19 23:30:25   every remaining job is throttled -> sleep 15 min
+2026-10-19 23:45:28   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:47:31   rate-limited on A|CJP; deferred to the end of the queue (9 left)
+2026-10-19 23:47:34   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:49:39   rate-limited on A|"Abhijeet Dipke"; deferred to the end of the queue (9 left)
+2026-10-19 23:49:42   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:51:45   rate-limited on A|Dipke; deferred to the end of the queue (9 left)
+2026-10-19 23:51:48   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:53:51   rate-limited on A|"cockroach janta"; deferred to the end of the queue (9 left)
+2026-10-19 23:53:55   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:55:58   rate-limited on B|NEET protest; deferred to the end of the queue (9 left)
+2026-10-19 23:56:01   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-19 23:58:05   rate-limited on B|"paper leak"; deferred to the end of the queue (9 left)
+2026-10-19 23:58:08   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 00:00:11   rate-limited on B|"Dharmendra Pradhan"; deferred to the end of the queue (9 left)
+2026-10-20 00:00:15   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 00:02:18   rate-limited on B|"Pradhan resign"; deferred to the end of the queue (9 left)
+2026-10-20 00:02:21   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 00:04:25   rate-limited on C|"Jantar Mantar"; deferred to the end of the queue (9 left)
+2026-10-20 00:04:25   every remaining job is throttled -> sleep 15 min
+2026-10-20 00:19:28   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 00:21:31   rate-limited on A|CJP; deferred to the end of the queue (9 left)
+2026-10-20 00:21:34   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 00:23:37   rate-limited on A|"Abhijeet Dipke"; deferred to the end of the queue (9 left)
+2026-10-20 00:23:40   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 00:25:43   rate-limited on A|Dipke; deferred to the end of the queue (9 left)
+2026-10-20 00:25:46   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 00:27:49   rate-limited on A|"cockroach janta"; deferred to the end of the queue (9 left)
+2026-10-20 00:27:52   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 00:29:55   rate-limited on B|NEET protest; deferred to the end of the queue (9 left)
+2026-10-20 00:29:58   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 00:32:01   rate-limited on B|"paper leak"; deferred to the end of the queue (9 left)
+2026-10-20 00:32:04   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 00:34:07   rate-limited on B|"Dharmendra Pradhan"; deferred to the end of the queue (9 left)
+2026-10-20 00:34:10   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 00:36:13   rate-limited on B|"Pradhan resign"; deferred to the end of the queue (9 left)
+2026-10-20 00:36:16   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 00:38:19   rate-limited on C|"Jantar Mantar"; deferred to the end of the queue (9 left)
+2026-10-20 00:38:19   every remaining job is throttled -> sleep 15 min
+2026-10-20 00:53:22   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 00:55:25   rate-limited on A|CJP; deferred to the end of the queue (9 left)
+2026-10-20 00:55:28   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 00:57:33   rate-limited on A|"Abhijeet Dipke"; deferred to the end of the queue (9 left)
+2026-10-20 00:57:36   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 00:59:39   rate-limited on A|Dipke; deferred to the end of the queue (9 left)
+2026-10-20 00:59:43   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 01:01:46   rate-limited on A|"cockroach janta"; deferred to the end of the queue (9 left)
+2026-10-20 01:01:49   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 01:03:52   rate-limited on B|NEET protest; deferred to the end of the queue (9 left)
+2026-10-20 01:03:55   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 01:05:58   rate-limited on B|"paper leak"; deferred to the end of the queue (9 left)
+2026-10-20 01:06:01   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 01:08:06   rate-limited on B|"Dharmendra Pradhan"; deferred to the end of the queue (9 left)
+2026-10-20 01:08:09   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 01:10:12   rate-limited on B|"Pradhan resign"; deferred to the end of the queue (9 left)
+2026-10-20 01:10:16   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 01:12:19   rate-limited on C|"Jantar Mantar"; deferred to the end of the queue (9 left)
+2026-10-20 01:12:19   every remaining job is throttled -> sleep 15 min
+2026-10-20 01:27:23   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 01:29:26   rate-limited on A|CJP; deferred to the end of the queue (9 left)
+2026-10-20 01:29:29   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 01:31:32   rate-limited on A|"Abhijeet Dipke"; deferred to the end of the queue (9 left)
+2026-10-20 01:31:36   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 01:33:39   rate-limited on A|Dipke; deferred to the end of the queue (9 left)
+2026-10-20 01:33:43   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 01:35:46   rate-limited on A|"cockroach janta"; deferred to the end of the queue (9 left)
+2026-10-20 01:35:50   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 01:37:53   rate-limited on B|NEET protest; deferred to the end of the queue (9 left)
+2026-10-20 01:37:56   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 01:39:59   rate-limited on B|"paper leak"; deferred to the end of the queue (9 left)
+2026-10-20 01:40:06   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 01:42:09   rate-limited on B|"Dharmendra Pradhan"; deferred to the end of the queue (9 left)
+2026-10-20 01:42:13   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 01:44:16   rate-limited on B|"Pradhan resign"; deferred to the end of the queue (9 left)
+2026-10-20 01:44:19   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 01:46:22   rate-limited on C|"Jantar Mantar"; deferred to the end of the queue (9 left)
+2026-10-20 01:46:22   every remaining job is throttled -> sleep 15 min
+2026-10-20 02:01:26   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 02:03:29   rate-limited on A|CJP; deferred to the end of the queue (9 left)
+2026-10-20 02:03:32   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 02:05:35   rate-limited on A|"Abhijeet Dipke"; deferred to the end of the queue (9 left)
+2026-10-20 02:05:39   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 02:07:44   rate-limited on A|Dipke; deferred to the end of the queue (9 left)
+2026-10-20 02:07:48   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 02:09:53   rate-limited on A|"cockroach janta"; deferred to the end of the queue (9 left)
+2026-10-20 02:09:59   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 02:12:02   rate-limited on B|NEET protest; deferred to the end of the queue (9 left)
+2026-10-20 02:12:05   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 02:14:08   rate-limited on B|"paper leak"; deferred to the end of the queue (9 left)
+2026-10-20 02:14:11   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 02:16:14   rate-limited on B|"Dharmendra Pradhan"; deferred to the end of the queue (9 left)
+2026-10-20 02:16:17   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 02:18:20   rate-limited on B|"Pradhan resign"; deferred to the end of the queue (9 left)
+2026-10-20 02:18:24   HTTP 429 (rate limit) -> sleep 2 min
+2026-10-20 02:20:27   rate-limited on C|"Jantar Mantar"; deferred to the end of the queue (9 left)
+2026-10-20 02:20:27   every remaining job is throttled -> sleep 15 min
